@@ -9,4 +9,5 @@ DirectoryIndex index.php index.html index.htm
 
 RewriteEngine on 
 
-RewriteRule ^home(|/)$ ./index.html
+RewriteRule ^home(|/)$ ./index.php
+RewriteRule ^article/solo-se-usa-el-10-del-mundo-digital(|/)$ ./article-4.php
