@@ -567,11 +567,11 @@
                 <div class="col-xs-12 col-md-12">
                     <div class="owl-articles owl-carousel">
                         <div class="item text-center writer-name-article">
-                            <a href="./blog-single.html">
+                            <a href="./article/solo-se-usa-el-10-del-mundo-digital">
                                 <img src="https://picsum.photos/160/140" class="img-responsive" alt="">
-                                <h4>Título del artículo</h4>
+                                <h4>Sólo se usa el 10% del mundo digital</h4>
                             </a>
-                            <small>Nombre y Apellido</small>
+                            <small>Yaremí Mendoza</small>
                         </div>
                         <div class="item text-center writer-name-article">
                             <a href="./blog-single.html">
