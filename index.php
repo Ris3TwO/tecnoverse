@@ -702,7 +702,7 @@
                     </ul>
                 </div>
 
-                <p class="copy-text">Tecnoverse © 2019. all right reserved, designed by <strong><a href="https://instagram.com/xfreeshot" target="_blank">Ris3TwO</a></strong>.</p>
+                <p class="copy-text">Tecnoverse © 2019. todos los derechos reservados, diseñado por <strong><a href="https://instagram.com/xfreeshot" target="_blank">Ris3TwO</a></strong>.</p>
             </div>
             <!-- end row -->
         </div>
