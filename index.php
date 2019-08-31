@@ -189,7 +189,7 @@
                                 </ul>
 
                                 <div class="details jane">
-                                    <h2>Jane Doe
+                                    <h2>Derian Rojas
                                         <br>
                                         <span class="job-title">UI Designer</span>
                                     </h2>
@@ -232,7 +232,7 @@
                                 </ul>
 
                                 <div class="details jane">
-                                    <h2>Jane Doe
+                                    <h2>Katherina Perez
                                         <br>
                                         <span class="job-title">UI Designer</span>
                                     </h2>
@@ -275,7 +275,7 @@
                                 </ul>
 
                                 <div class="details jane">
-                                    <h2>Jane Doe
+                                    <h2>Yaremí Mendoza
                                         <br>
                                         <span class="job-title">UI Designer</span>
                                     </h2>
@@ -318,7 +318,50 @@
                                 </ul>
 
                                 <div class="details jane">
-                                    <h2>Jane Doe
+                                    <h2>Jorgelis Chavez
+                                        <br>
+                                        <span class="job-title">UI Designer</span>
+                                    </h2>
+                                </div>
+                            </div>
+                        </div>
+                        <!-- END box wrapper -->
+                    </div>
+                </div>
+                <div class="col-md-4">
+                    <div class="container-card">
+                        <div class="card-wrapper">
+                            <div class="card profile-two">
+
+                                <div class="card-image profile-img--two">
+                                    <img src="https://image.ibb.co/c9rY6J/profile02.jpg" alt="profile two">
+                                </div>
+
+                                <ul class="social-icons">
+                                    <li>
+                                        <a href="">
+                                            <i class="fab fa-facebook-f"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.instagram.com/zully-alvarado">
+                                            <i class="fab fa-instagram"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="https://www.twitter.com/zullyalvarado1">
+                                            <i class="fab fa-twitter"></i>
+                                        </a>
+                                    </li>
+                                    <li>
+                                        <a href="">
+                                            <i class="fab fa-dribbble"></i>
+                                        </a>
+                                    </li>
+                                </ul>
+
+                                <div class="details jane">
+                                    <h2>Zully Alvarado
                                         <br>
                                         <span class="job-title">UI Designer</span>
                                     </h2>
@@ -361,50 +404,7 @@
                                 </ul>
 
                                 <div class="details jane">
-                                    <h2>Jane Doe
-                                        <br>
-                                        <span class="job-title">UI Designer</span>
-                                    </h2>
-                                </div>
-                            </div>
-                        </div>
-                        <!-- END box wrapper -->
-                    </div>
-                </div>
-                <div class="col-md-4">
-                    <div class="container-card">
-                        <div class="card-wrapper">
-                            <div class="card profile-two">
-
-                                <div class="card-image profile-img--two">
-                                    <img src="https://image.ibb.co/c9rY6J/profile02.jpg" alt="profile two">
-                                </div>
-
-                                <ul class="social-icons">
-                                    <li>
-                                        <a href="">
-                                            <i class="fab fa-facebook-f"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="">
-                                            <i class="fab fa-instagram"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="">
-                                            <i class="fab fa-twitter"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="">
-                                            <i class="fab fa-dribbble"></i>
-                                        </a>
-                                    </li>
-                                </ul>
-
-                                <div class="details jane">
-                                    <h2>Jane Doe
+                                    <h2>Rebeca Martinez
                                         <br>
                                         <span class="job-title">UI Designer</span>
                                     </h2>
