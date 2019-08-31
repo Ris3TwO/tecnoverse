@@ -1610,6 +1610,10 @@ Blog
     top: -2em;
 }
 
+.blog-page-4 {
+    background-image: url(../img/blog-header2.jpg);
+}
+
 .drop-cap:first-letter {
     float: left;
     font-family: "Lora", serif;
