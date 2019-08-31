@@ -234,13 +234,13 @@
     <!-- Touch Swipe -->
     <script src="../../js/jquery.touchSwipe.min.js"></script>
     <!-- Custom js -->
-    <script src="../../js/main.js"></script>
     <script type="text/javascript">
         $(document).ready(function() {
             $("#gallery").lightGallery();
             console.log('¡Está corriendo la gallery!');
         });
     </script>
+    <script src="../../js/main.js"></script>
 </body>
 
 </html>
