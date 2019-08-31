@@ -238,6 +238,7 @@
     <script type="text/javascript">
         $(document).ready(function() {
             $("#gallery").lightGallery();
+            console.log('¡Está corriendo la gallery!');
         });
     </script>
 </body>
