@@ -107,11 +107,11 @@
     <section id="blog" class="section blog-block one-page-section second-bg">
         <div class="container">
             <div class="row ">
-                <div class="col-xs-12 col-md-12 ">
-                    <div class="col-md-12 col-md-offset-1 ">
-                        <h4 class="writer-name ">
+                <div class="col-xs-12 col-md-12">
+                    <div class="col-md-12 col-md-offset-1">
+                        <h4 class="writer-name">
                             Yaremí Mendoza
-                            <span class="time-publish ">
+                            <span class="time-publish">
                                 30 AGO 2019 - 21:23 CEST
                             </span>
                         </h4>
@@ -143,7 +143,7 @@
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-6 img-block">
-                    <div id="lightgallery">
+                    <div id="gallery">
                         <a href="https://picsum.photos/id/1031/400/300">
                             <img class="img-responsive " src="https://picsum.photos/id/1031/400/300" alt=" ">
                         </a>
