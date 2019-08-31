@@ -24,7 +24,7 @@
     <link rel="stylesheet" type="text/css" href="css/all.min.css">
 
     <!-- Light Gallery -->
-    <link type="text/css" rel="stylesheet" href="css/lightGallery.css" /> 
+    <link type="text/css" rel="stylesheet" href="css/lightgallery.min.css" /> 
 
     <!-- Custom styles for this template -->
     <link rel="stylesheet" type="text/css" href="css/style.css">
@@ -722,9 +722,7 @@
     <!-- Owl Carousel JS -->
     <script src="js/owl.carousel.min.js"></script>
     <!-- lightgallery plugins -->
-    <script src="js/lightgallery.min.js"></script>
-    <script src="js/lg-thumbnail.min.js"></script>
-    <script src="js/lg-fullscreen.min.js"></script>
+    <script src="js/lightgallery-all.min.js"></script>
     <!-- jQuery Typer JS -->
     <script src="js/jquery.typer.js"></script>
     <!-- jQuery Images Loaded JS -->
