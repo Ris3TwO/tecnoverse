@@ -93,14 +93,7 @@
     <section class="blog-page parallax one-page-section">
         <div class="page-table">
             <div class="table-cell text-center">
-                <h3>Aquí va el antetítulo</h3>
-                <h1>Título del artículo</h1>
-
-                <div class="col-md-8 col-md-offset-2">
-                    <p class="lead" style="color: #ddd; /*text-align: justify*/ ">
-                        Non ratione vel. Non consequatur hic et labore et quia doloribus. Dolorum rerum dignissimos inventore id corporis rerum. At nesciunt ut error est soluta qui quibusdam blanditiis animi.
-                    </p>
-                </div>
+                <h1>Sólo se usa el 10% del mundo digital</h1>
                 <a href="#blog" class="scroll home-s-btn hor-center"><span class="dot center"></span></a>
             </div>
         </div>
