@@ -567,7 +567,7 @@
                 <div class="col-xs-12 col-md-12">
                     <div class="owl-articles owl-carousel">
                         <div class="item text-center writer-name-article">
-                            <a href="./article/solo-se-usa-el-10-del-mundo-digital">
+                            <a href="./articles/solo-se-usa-el-10-del-mundo-digital">
                                 <img src="https://picsum.photos/160/140" class="img-responsive" alt="">
                                 <h4>Sólo se usa el 10% del mundo digital</h4>
                             </a>
