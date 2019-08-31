@@ -8,7 +8,7 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <!-- SITE TITLE -->
-    <title>Tecnoverse | Eslogan</title>
+    <title>Tecnoverse | Te traemos las noticias del mañana</title>
     <meta name="description" content="Tecnoverse magazine">
 
     <!-- Bootstrap CSS -->
