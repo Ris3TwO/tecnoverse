@@ -1879,6 +1879,9 @@ Mediaqueries
         font-size: 65%;
         line-height: 0;
     }
+    .team .card-wrapper {
+        height: 350px;
+    }
 }
 
 @media screen and (min-width: 768px) {
