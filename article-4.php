@@ -143,7 +143,7 @@
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-6 img-block">
-                    <div id="gallery">
+                    <div id="img-block">
                         <a href="https://picsum.photos/id/1031/400/300">
                             <img class="img-responsive " src="https://picsum.photos/id/1031/400/300" alt=" ">
                         </a>
@@ -237,6 +237,7 @@
     <script type="text/javascript">
         $(document).ready(function() {
             $("#gallery").lightGallery();
+            $("#img-block").lightGallery();
             console.log('¡Está corriendo la gallery!');
         });
     </script>
