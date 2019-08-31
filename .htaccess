@@ -9,4 +9,4 @@ DirectoryIndex index.php index.html index.htm
 
 RewriteEngine on 
 
-RewriteRule ^home(|/)$ ./index.php
+RewriteRule ^home(|/)$ ./index.html
