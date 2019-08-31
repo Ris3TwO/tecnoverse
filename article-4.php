@@ -23,6 +23,9 @@
     <!-- FONT AWESOME -->
     <link rel="stylesheet" type="text/css" href="../../css/all.min.css">
 
+    <!-- Light Gallery -->
+    <link type="text/css" rel="stylesheet" href="../../css/lightgallery.min.css" />
+
     <!-- Custom styles for this template -->
     <link rel="stylesheet" type="text/css" href="../../css/style.css">
 
@@ -63,11 +66,11 @@
                 <!-- Brand and toggle get grouped for better mobile display -->
                 <div class="navbar-header">
                     <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bm-navbar" aria-expanded="false">
-                            <span class="sr-only">Toggle navigation</span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                            <span class="icon-bar"></span>
-                        </button>
+                        <span class="sr-only">Toggle navigation</span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                        <span class="icon-bar"></span>
+                    </button>
                     <a class="navbar-brand effect" href="../../home">
                     </a>
                 </div>
@@ -113,8 +116,12 @@
                             </span>
                         </h4>
                     </div>
-                    <div class="text-center" style="padding-bottom: 2em; ">
-                        <img class="img-responsive-2 " src="https://picsum.photos/id/1021/1020/400 " alt=" ">
+                    <div class="text-center" style="padding-bottom: 2em;">
+                        <div id="lightgallery">
+                            <a href="https://picsum.photos/id/1021/1020/400">
+                                <img class="img-responsive-2 " src="https://picsum.photos/id/1021/1020/400" alt=" ">
+                            </a>
+                        </div>
                         <p class="img-text">
                             <small>Mensaje debajo de la imagen</small>
                         </p>
@@ -136,7 +143,11 @@
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-6 img-block">
-                    <img class="img-responsive " src="https://picsum.photos/id/1031/400/300 " alt=" ">
+                    <div id="lightgallery">
+                        <a href="https://picsum.photos/id/1031/400/300">
+                            <img class="img-responsive " src="https://picsum.photos/id/1031/400/300" alt=" ">
+                        </a>
+                    </div>
                     <p class="img-text">
                         <small>Mensaje debajo de la imagen</small>
                     </p>
@@ -166,8 +177,6 @@
             </div>
         </div>
     </section>
-
-
     <!-- END CONTENT -->
 
     <!-- FOOTER -->
@@ -212,6 +221,8 @@
     <script src="../../js/jquery.magnific-popup.min.js "></script>
     <!-- Owl Carousel JS -->
     <script src="../../js/owl.carousel.min.js "></script>
+    <!-- lightgallery plugins -->
+    <script src="../../js/lightgallery-all.min.js"></script>
     <!-- jQuery Typer JS -->
     <script src="../../js/jquery.typer.js "></script>
     <!-- jQuery Images Loaded JS -->
@@ -224,6 +235,11 @@
     <script src="../../js/jquery.touchSwipe.min.js "></script>
     <!-- Custom js -->
     <script src="../../js/main.js "></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $("#lightgallery").lightGallery();
+        });
+    </script>
 </body>
 
 </html>

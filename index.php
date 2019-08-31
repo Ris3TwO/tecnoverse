@@ -744,9 +744,6 @@
             $("#lightgallery").lightGallery(); 
         });
     </script>
-
-
-
 </body>
 
 </html>
