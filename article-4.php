@@ -117,7 +117,7 @@
                         </h4>
                     </div>
                     <div class="text-center" style="padding-bottom: 2em;">
-                        <div id="lightgallery">
+                        <div id="gallery">
                             <a href="https://picsum.photos/id/1021/1020/400">
                                 <img class="img-responsive-2" src="https://picsum.photos/id/1021/1020/400" alt=" ">
                             </a>
@@ -237,7 +237,7 @@
     <script src="../../js/main.js"></script>
     <script type="text/javascript">
         $(document).ready(function() {
-            $("#lightgallery").lightGallery();
+            $("#gallery").lightGallery();
         });
     </script>
 </body>
