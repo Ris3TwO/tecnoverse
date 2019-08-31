@@ -156,7 +156,7 @@
                 </div>
             </div>
             <div class="row team" style="padding: .75em;">
-                <div class="col-md-4">
+                <div class="col-md-4 col-sm-6">
                     <div class="container-card">
                         <div class="card-wrapper">
                             <div class="card profile-two">
@@ -199,7 +199,7 @@
                         <!-- END box wrapper -->
                     </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4 col-sm-6">
                     <div class="container-card">
                         <div class="card-wrapper">
                             <div class="card profile-two">
@@ -242,7 +242,7 @@
                         <!-- END box wrapper -->
                     </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4 col-sm-6">
                     <div class="container-card">
                         <div class="card-wrapper">
                             <div class="card profile-two">
@@ -285,7 +285,7 @@
                         <!-- END box wrapper -->
                     </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4 col-sm-6">
                     <div class="container-card">
                         <div class="card-wrapper">
                             <div class="card profile-two">
@@ -328,7 +328,7 @@
                         <!-- END box wrapper -->
                     </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4 col-sm-6">
                     <div class="container-card">
                         <div class="card-wrapper">
                             <div class="card profile-two">
@@ -371,7 +371,7 @@
                         <!-- END box wrapper -->
                     </div>
                 </div>
-                <div class="col-md-4">
+                <div class="col-md-4 col-sm-6">
                     <div class="container-card">
                         <div class="card-wrapper">
                             <div class="card profile-two">
