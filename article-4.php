@@ -110,16 +110,16 @@
                 <div class="col-xs-12 col-md-12 ">
                     <div class="col-md-12 col-md-offset-1 ">
                         <h4 class="writer-name ">
-                            Nombre y Apellido
+                            Yaremí Mendoza
                             <span class="time-publish ">
-                                29 AGO 2019 - 18:22 CEST
+                                30 AGO 2019 - 21:23 CEST
                             </span>
                         </h4>
                     </div>
                     <div class="text-center" style="padding-bottom: 2em;">
                         <div id="lightgallery">
                             <a href="https://picsum.photos/id/1021/1020/400">
-                                <img class="img-responsive-2 " src="https://picsum.photos/id/1021/1020/400" alt=" ">
+                                <img class="img-responsive-2" src="https://picsum.photos/id/1021/1020/400" alt=" ">
                             </a>
                         </div>
                         <p class="img-text">
