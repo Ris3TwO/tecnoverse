@@ -23,6 +23,9 @@
     <!-- FONT AWESOME -->
     <link rel="stylesheet" type="text/css" href="css/all.min.css">
 
+    <!-- Light Gallery -->
+    <link type="text/css" rel="stylesheet" href="css/lightGallery.css" /> 
+
     <!-- Custom styles for this template -->
     <link rel="stylesheet" type="text/css" href="css/style.css">
 
@@ -718,6 +721,10 @@
     <script src="js/jquery.magnific-popup.min.js"></script>
     <!-- Owl Carousel JS -->
     <script src="js/owl.carousel.min.js"></script>
+    <!-- lightgallery plugins -->
+    <script src="js/lightgallery.min.js"></script>
+    <script src="js/lg-thumbnail.min.js"></script>
+    <script src="js/lg-fullscreen.min.js"></script>
     <!-- jQuery Typer JS -->
     <script src="js/jquery.typer.js"></script>
     <!-- jQuery Images Loaded JS -->
