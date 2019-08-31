@@ -450,6 +450,14 @@ $(function() {
 
     }
 
+    /*------------------------------------------------------------------------
+     Javascript Function for Light Gallery
+    -------------------------------------------------------------------------*/
+
+    function() {
+        $("#lightgallery").lightGallery();
+    }
+
 
     /*------------------------------------------------------------------------
      Javascript Function for Validate and Submit the CONTACT Form Using AJAX
