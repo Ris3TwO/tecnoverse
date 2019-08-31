@@ -12,30 +12,30 @@
     <meta name="description" content="Tecnoverse magazine">
 
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" type="text/css" href="./css/bootstrap.min.css">
+    <link rel="stylesheet" type="text/css" href="../../css/bootstrap.min.css">
 
     <!-- Magnific Popup core CSS file -->
-    <link rel="stylesheet" href="./css/magnific-popup.css">
+    <link rel="stylesheet" href="../../css/magnific-popup.css">
 
     <!-- Owl Carousel CSS -->
-    <link rel="stylesheet" href="./css/owl.carousel.min.css">
+    <link rel="stylesheet" href="../../css/owl.carousel.min.css">
 
     <!-- FONT AWESOME -->
-    <link rel="stylesheet" type="text/css" href="./css/all.min.css">
+    <link rel="stylesheet" type="text/css" href="../../css/all.min.css">
 
     <!-- Custom styles for this template -->
-    <link rel="stylesheet" type="text/css" href="./css/style.css">
+    <link rel="stylesheet" type="text/css" href="../../css/style.css">
 
     <!-- Google Fonts -->
     <link href="https://fonts.googleapis.com/css?family=Lato:400,400i,700,700i" rel="stylesheet">
 
     <!-- Favicon -->
-    <link rel="icon" href="./img/favicon.ico">
+    <link rel="icon" href="../../img/favicon.ico">
 
     <!-- Touch Icons - iOS and Android 2.1+ -->
-    <link rel="apple-touch-icon" href="./img/apple-favicon.png">
-    <link rel="apple-touch-icon" sizes="72x72" href="./img/apple-touch-icon-ipad.png">
-    <link rel="apple-touch-icon" sizes="114x114" href="./img/apple-touch-icon-iphone4.png">
+    <link rel="apple-touch-icon" href="../../img/apple-favicon.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="../../img/apple-touch-icon-ipad.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="../../img/apple-touch-icon-iphone4.png">
 
     <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
     <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -68,17 +68,17 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                    <a class="navbar-brand effect" href="./home">
+                    <a class="navbar-brand effect" href="../../home">
                     </a>
                 </div>
 
                 <!-- Collect the nav links, forms, and other content for toggling -->
                 <div class="collapse navbar-collapse" id="bm-navbar">
                     <ul class="nav navbar-nav navbar-right">
-                        <li><a href="./home#home" class="scroll effect" data-speed="800">INICIO</a></li>
-                        <li><a href="./home#team" class="scroll effect" data-speed="1200">NUESTRO EQUIPO</a></li>
-                        <li><a href="./home#blog" class="scroll effect active" data-speed="1400">BLOG</a></li>
-                        <li><a href="./home#contact" class="scroll effect" data-speed="1700">CONTÁCTANOS</a></li>
+                        <li><a href="../../home#home" class="scroll effect" data-speed="800">INICIO</a></li>
+                        <li><a href="../../home#team" class="scroll effect" data-speed="1200">NUESTRO EQUIPO</a></li>
+                        <li><a href="../../home#blog" class="scroll effect active" data-speed="1400">BLOG</a></li>
+                        <li><a href="../../home#contact" class="scroll effect" data-speed="1700">CONTÁCTANOS</a></li>
                     </ul>
                 </div>
                 <!-- End navbar-collapse -->
