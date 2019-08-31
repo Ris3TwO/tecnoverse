@@ -739,6 +739,13 @@
     <script src="js/jquery.touchSwipe.min.js"></script>
     <!-- Custom js -->
     <script src="js/main.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function() {
+            $("#lightgallery").lightGallery(); 
+        });
+    </script>
+
+
 
 </body>
 
