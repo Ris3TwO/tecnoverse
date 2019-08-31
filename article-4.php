@@ -166,10 +166,10 @@
                             ipsam voluptates quia. Veniam temporibus et. Aperiam sint veniam libero perferendis a. Quisquam optio quidem et.
                         </p>
                         <cite>
-                            <a href="#0 ">John Doe</a>
+                            <a href="#0">John Doe</a>
                         </cite>
                     </blockquote>
-                    <p class="lead ">
+                    <p class="lead">
                         Non ratione vel. Non consequatur hic et labore et quia doloribus. Dolorum rerum dignissimos inventore id corporis rerum. At nesciunt ut error est soluta qui quibusdam blanditiis animi. Ad saepe quia at numquam temporibus quisquam ipsa. Ab omnis aut ratione
                         ipsam voluptates quia. Veniam temporibus et. Aperiam sint veniam libero perferendis a. Quisquam optio quidem et.
                     </p>
@@ -180,11 +180,11 @@
     <!-- END CONTENT -->
 
     <!-- FOOTER -->
-    <footer class="footer ">
-        <div class="container ">
-            <div class="row ">
-                <a href="home " class="effect footer-title ">
-                    <img src="../../img/logo-2.png " class="footer-logo " alt=" ">
+    <footer class="footer">
+        <div class="container">
+            <div class="row">
+                <a href="../../home" class="effect footer-title">
+                    <img src="../../img/logo-2.png " class="footer-logo" alt="">
                 </a>
 
                 <div class="footer-social">
@@ -198,7 +198,7 @@
                     </ul>
                 </div>
 
-                <p class="copy-text ">Tecnoverse © 2019. all right reserved, designed by <strong><a href="https://instagram.com/xfreeshot " target="_blank ">Ris3TwO</a></strong>.</p>
+                <p class="copy-text">Tecnoverse © 2019. all right reserved, designed by <strong><a href="https://instagram.com/xfreeshot " target="_blank ">Ris3TwO</a></strong>.</p>
             </div>
             <!-- end row -->
         </div>
