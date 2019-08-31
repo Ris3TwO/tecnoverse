@@ -24,7 +24,7 @@
     <link rel="stylesheet" type="text/css" href="css/all.min.css">
 
     <!-- Light Gallery -->
-    <link type="text/css" rel="stylesheet" href="css/lightgallery.min.css" /> 
+    <link type="text/css" rel="stylesheet" href="css/lightgallery.min.css" />
 
     <!-- Custom styles for this template -->
     <link rel="stylesheet" type="text/css" href="css/style.css">
@@ -632,7 +632,7 @@
                     <div class="col-xs-12 col-sm-4">
                         <div class="contact-item mb-30">
                             <div class="c-icon text-center">
-                                <i class="fa fa-map-marker"></i>
+                                <i class="fas fa-map-marker-alt"></i>
                             </div>
                             <div class="c-text">
                                 <h5>DIRECCIÓN</h5>
@@ -741,7 +741,7 @@
     <script src="js/main.js"></script>
     <script type="text/javascript">
         $(document).ready(function() {
-            $("#lightgallery").lightGallery(); 
+            $("#lightgallery").lightGallery();
         });
     </script>
 </body>

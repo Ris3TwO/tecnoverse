@@ -1680,7 +1680,8 @@ Contact
     border-radius: 50%;
 }
 
-.contact-item .c-icon .fa {
+.contact-item .c-icon .fa,
+.fas {
     font-size: 20px;
     line-height: 58px;
     color: #fafafa;
