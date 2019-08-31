@@ -214,27 +214,27 @@
 
     <!-- js placed at the end of the document so the pages load faster -->
     <!-- jQuery -->
-    <script src="../../js/jquery.min.js "></script>
+    <script src="../../js/jquery.min.js"></script>
     <!-- Bootstrap JS -->
-    <script src="../../js/bootstrap.min.js "></script>
+    <script src="../../js/bootstrap.min.js"></script>
     <!-- Magnific Popup core JS file -->
-    <script src="../../js/jquery.magnific-popup.min.js "></script>
+    <script src="../../js/jquery.magnific-popup.min.js"></script>
     <!-- Owl Carousel JS -->
-    <script src="../../js/owl.carousel.min.js "></script>
+    <script src="../../js/owl.carousel.min.js"></script>
     <!-- lightgallery plugins -->
     <script src="../../js/lightgallery-all.min.js"></script>
     <!-- jQuery Typer JS -->
-    <script src="../../js/jquery.typer.js "></script>
+    <script src="../../js/jquery.typer.js"></script>
     <!-- jQuery Images Loaded JS -->
-    <script src="../../js/imagesloaded.pkgd.min.js "></script>
+    <script src="../../js/imagesloaded.pkgd.min.js"></script>
     <!-- jQuery Filterizr JS -->
-    <script src="../../js/isotope.pkgd.min.js "></script>
+    <script src="../../js/isotope.pkgd.min.js"></script>
     <!-- PARTICLES JS -->
-    <script src="../../js/particles.js "></script>
+    <script src="../../js/particles.js"></script>
     <!-- Touch Swipe -->
-    <script src="../../js/jquery.touchSwipe.min.js "></script>
+    <script src="../../js/jquery.touchSwipe.min.js"></script>
     <!-- Custom js -->
-    <script src="../../js/main.js "></script>
+    <script src="../../js/main.js"></script>
     <script type="text/javascript">
         $(document).ready(function() {
             $("#lightgallery").lightGallery();

@@ -271,7 +271,6 @@ $(function() {
         stikyNav();
         ChangeClass();
         parallax();
-        progressFunction();
     }
 
     // add Event listener to window
