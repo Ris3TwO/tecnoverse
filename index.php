@@ -128,7 +128,11 @@
                 </div>
 
                 <div class="col-xs-12 col-md-6">
-                    <img src="https://picsum.photos/600/320" class="img-responsive" alt="">
+                    <div id="lightgallery">
+                        <a href="https://picsum.photos/600/320">
+                            <img src="https://picsum.photos/600/320" class="img-responsive" alt="">
+                        </a>
+                    </div>
                 </div>
             </div>
             <!-- End Row -->
