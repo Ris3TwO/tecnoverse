@@ -514,14 +514,14 @@
                                 <p class="img-text">
                                     <small>Mensaje debajo de la imagen</small>
                                 </p>
-                                <h2>Título del artículo</h2>
+                                <h2>Tecnología curativa, «microbots médicos»</h2>
                                 <p>
-                                    <small>Nombre y Apellido</small>
+                                    <small>Jorgelis Chávez</small>
                                 </p>
                                 <p>
-                                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum in pretium mauris. Vivamus dictum est ac erat laoreet suscipit. Interdum.
+                                    La NASA desarrolló una nueva tecnología para diagnosticar enfermedades, como el cáncer, antes de que las persona la padezcan. Esta nueva modalidad es diseñada empleando, robots miniatura (nanotecnología).
                                 </p>
-                                <a href="./blog-single.html" class="btn btn-sm btn-default"><span class="glyphicon glyphicon-new-window"></span> Leer más</a>
+                                <a href="./articles/tecnologia-curativa-microbots-medicos" class="btn btn-sm btn-default"><span class="glyphicon glyphicon-new-window"></span> Leer más</a>
                             </div>
                         </div>
                     </div>
