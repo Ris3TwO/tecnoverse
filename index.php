@@ -166,7 +166,7 @@
 
                                 <ul class="social-icons">
                                     <li>
-                                        <a href="">
+                                        <a href="https://www.facebook.com/HeyKieron" target="_blank">
                                             <i class="fab fa-facebook-f"></i>
                                         </a>
                                     </li>
@@ -209,7 +209,7 @@
 
                                 <ul class="social-icons">
                                     <li>
-                                        <a href="">
+                                        <a href="https://www.facebook.com/katherine.perez.792197" target="_blank">
                                             <i class="fab fa-facebook-f"></i>
                                         </a>
                                     </li>
@@ -252,16 +252,16 @@
 
                                 <ul class="social-icons">
                                     <li>
-                                        <a href="">
+                                        <a href="https://www.facebook.com/Alejandra.Fiore" target="_blank">
                                             <i class="fab fa-facebook-f"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="">
+                                        <a href="https://www.instagram.com/alejandra.fiore" target="_blank">
                                             <i class="fab fa-instagram"></i>
                                         </a>
                                     </li>
-                                    <li>
+                                    <!-- <li>
                                         <a href="">
                                             <i class="fab fa-twitter"></i>
                                         </a>
@@ -270,7 +270,7 @@
                                         <a href="">
                                             <i class="fab fa-dribbble"></i>
                                         </a>
-                                    </li>
+                                    </li> -->
                                 </ul>
 
                                 <div class="details jane">
@@ -295,7 +295,7 @@
 
                                 <ul class="social-icons">
                                     <li>
-                                        <a href="">
+                                        <a href="https://www.facebook.com/jorgelis.chavez.5" target="_blank">
                                             <i class="fab fa-facebook-f"></i>
                                         </a>
                                     </li>
@@ -338,25 +338,25 @@
 
                                 <ul class="social-icons">
                                     <li>
-                                        <a href="">
+                                        <a href="https://www.facebook.com/ZullyAlvarado5000" target="_blank">
                                             <i class="fab fa-facebook-f"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://www.instagram.com/zully-alvarado">
+                                        <a href="https://www.instagram.com/zully-alvarado" target="_blank">
                                             <i class="fab fa-instagram"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="https://www.twitter.com/zullyalvarado1">
+                                        <a href="https://www.twitter.com/zullyalvarado1" target="_blank">
                                             <i class="fab fa-twitter"></i>
                                         </a>
                                     </li>
-                                    <li>
+                                    <!-- <li>
                                         <a href="">
                                             <i class="fab fa-dribbble"></i>
                                         </a>
-                                    </li>
+                                    </li> -->
                                 </ul>
 
                                 <div class="details jane">
@@ -381,7 +381,7 @@
 
                                 <ul class="social-icons">
                                     <li>
-                                        <a href="">
+                                        <a href="https://www.facebook.com/profile.php?id=100006870815396" target="_blank">
                                             <i class="fab fa-facebook-f"></i>
                                         </a>
                                     </li>
