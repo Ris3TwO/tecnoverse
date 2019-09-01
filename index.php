@@ -512,7 +512,7 @@
                             <div class="card-left">
                                 <img src="./img/articles/1/article-secondary-1.jpg" class="img-responsive img-article-primary">
                                 <p class="img-text">
-                                    <small>Cortesía de Euronews</small>
+                                    <small>Cortesía de Nanotecnología Medica</small>
                                 </p>
                                 <h2>Tecnología curativa, «microbots médicos»</h2>
                                 <p>
