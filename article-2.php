@@ -96,7 +96,7 @@
     <section class="blog-page-2 blog-page parallax one-page-section">
         <div class="page-table">
             <div class="table-cell text-center">
-                <h3>¿Una estrella o un sol?</h3>
+                <h3>¿Un sistema solar o una estrella?</h3>
                 <h1>Kepler-90i: El sorprendente sistema estelar descubierto por una IA</h1>
 
                 <div class="col-md-8 col-md-offset-2">
