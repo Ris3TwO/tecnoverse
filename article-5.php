@@ -166,7 +166,7 @@
                 <div class="col-xs-12 col-md-6 img-block">
                     <div id="img-block">
                         <a href="../../img/articles/5/article-secondary2.jpg">
-                            <img class="img-responsive img-secondary" src="../../img/articles/5/article-secondary2.jpg" alt=" ">
+                            <img class="img-responsive img-secondary" src="../../img/articles/5/article-secondary2-thumbnail.jpg" alt=" ">
                         </a>
                     </div>
                     <p class="img-text">
