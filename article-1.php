@@ -96,7 +96,14 @@
     <section class="blog-page parallax one-page-section">
         <div class="page-table">
             <div class="table-cell text-center">
-                <h1>Sólo se usa el 10% del mundo digital</h1>
+                <h3>¿Los médicos del futuro, serán robots?</h3>
+                <h1>Tecnología curativa, «microbots médicos»</h1>
+
+                <div class="col-md-8 col-md-offset-2">
+                    <p class="summary">
+                        La nanotecnología, que tiene el poder de diagnostica enfermedades antes de que las personas las padezca
+                    </p>
+                </div>
                 <a href="#blog" class="scroll home-s-btn hor-center"><span class="dot center"></span></a>
             </div>
         </div>
@@ -110,9 +117,9 @@
                 <div class="col-xs-12 col-md-12">
                     <div class="col-md-12 col-md-offset-1">
                         <h4 class="writer-name">
-                            Yaremí Mendoza
+                            Jorgelis Chávez
                             <span class="time-publish">
-                                30 AGO 2019 - 21:23 CEST
+                                31 AGO 2019 - 17:10 CEST
                             </span>
                         </h4>
                     </div>

@@ -1625,6 +1625,11 @@ Blog
     top: -2em;
 }
 
+.blog-page .summary {
+    color: #ddd;
+    font-style: italic;
+}
+
 .blog-page-4 {
     background-image: url(../img/blog-header2.jpg);
 }
