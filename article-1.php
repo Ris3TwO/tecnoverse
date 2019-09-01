@@ -126,7 +126,7 @@
                     <div class="text-center" style="padding-bottom: 2em;">
                         <div id="gallery">
                             <a href="../../img/articles/1/article-primary.jpg">
-                                <img class="img-responsive-2 img-primary" src="../../img/1/article-primary.jpg" alt=" ">
+                                <img class="img-responsive-2 img-primary" src="../../img/articles/1/article-primary.jpg" alt=" ">
                             </a>
                         </div>
                         <p class="img-text">
@@ -142,15 +142,13 @@
                 </div>
                 <div class="col-xs-12 col-md-6 ">
                     <p class="lead ">
-                        Non ratione vel. Non consequatur hic et labore et quia doloribus. Dolorum rerum dignissimos inventore id corporis rerum. At nesciunt ut error est soluta qui quibusdam blanditiis animi. Ad saepe quia at numquam temporibus quisquam ipsa. Ab omnis aut ratione
-                        ipsam voluptates quia. Veniam temporibus et. Aperiam sint veniam libero perferendis a. Quisquam optio quidem et. Non ratione vel. Non consequatur hic et labore et quia doloribus. Dolorum rerum dignissimos inventore id corporis
-                        rerum. At nesciunt ut error est soluta qui quibusdam blanditiis animi. Non ratione vel. Non consequatur hic et labore et quia doloribus
+                        Es por ende que se ha venido estudiando el desarrollo de sistemas robóticos miniatura que eviten las enfermedades antes de que ataquen el sistema inmunológico humano, para así poderla eliminar, o descubrir qué la está causando. Esto podría ser posible con los microbots, unas pequeñas maquinas creadas por átomos, que cumplen la función de los glóbulos blancos, los cuales detectan organismos malignos, como un parasito, por ejemplo, para así eliminarlos.
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-6 img-block">
                     <div id="img-block">
-                        <a href="https://picsum.photos/id/1031/400/300">
-                            <img class="img-responsive " src="https://picsum.photos/id/1031/400/300" alt=" ">
+                        <a href="../../img/articles/1/article-secondary-1.jpg">
+                            <img class="img-responsive img-secondary" src="../../img/articles/1/article-secondary-1.jpg" alt=" ">
                         </a>
                     </div>
                     <p class="img-text">
