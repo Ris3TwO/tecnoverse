@@ -232,7 +232,7 @@
     <!-- PARTICLES JS -->
     <script src="../../js/particles.js"></script>
     <!-- Touch Swipe -->
-    <script src="../../js/jquery.touchSwipe.min.js"></script>
+    <script type="text/javascript" src="../../js/jquery.touchSwipe.min.js"></script>
     <!-- Custom js -->
     <script type="text/javascript">
         $(document).ready(function() {
