@@ -139,7 +139,7 @@
                 </div>
                 <div class="col-xs-12 col-md-6 ">
                     <p class="lead">
-                        La iniciativa del proyecto se da hace ya una decada, cuando se plantea la necesidad de crear una red global de telescopios, en vista de que logicamente, no se podría frabricar uno del tamaño de la tierra para captar dichas imágenes. La más amplia separación que existe entre los telescopios separados los unos de los otros, es de hasta 10.000 kilometros, contando con una resolución mayor a la del Hubble con 1000 veces mayor capacidad. De por sí la localización de estos telescopios, tiene que ser en lugares con condiciones específicas, con una superficie plana y de naturaleza seca. Ya en el año 2017, sincronizaron perfectamente a los aparatos ubicados en 4 continentes para captar al agujero negro, corazón de la Vía Lactea en Sagitario A. Finalemente, la imagen del agujero negro Powehi en la galaxia M87, con un tamaño de 6500 millones de masas solares, fue la que resultó más nitida.
+                        La iniciativa del proyecto se da hace ya una decada, cuando se plantea la necesidad de crear una red global de telescopios, en vista de que logicamente, no se podría frabricar uno del tamaño de la tierra para captar dichas imágenes. La más amplia separación que existe entre los telescopios separados los unos de los otros, es de hasta 10.000 kilometros, contando con una resolución mayor a la del Hubble con 1000 veces
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-6 img-block">
@@ -153,6 +153,9 @@
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-12 ">
+                    <p class="lead">
+                        mayor capacidad. De por sí la localización de estos telescopios, tiene que ser en lugares con condiciones específicas, con una superficie plana y de naturaleza seca. Ya en el año 2017, sincronizaron perfectamente a los aparatos ubicados en 4 continentes para captar al agujero negro, corazón de la Vía Lactea en Sagitario A. Finalemente, la imagen del agujero negro Powehi en la galaxia M87, con un tamaño de 6500 millones de masas solares, fue la que resultó más nitida.
+                    </p>
                     <p class="lead ">
                         La astronoma Gloria Dubner, ex directora del Instituto de Astronomía y Fisica del Espacio, explicó en la proyección de esta hazaña, todos los factores a intervenir para obtener dicha imagen. Para hacernos una idea, explica que, si tuviesemos una resolución angular comparable en luz visible, podríamos leer claramente cartelitos escritos con letras de 6,5 cm de alto ubicados en la luna.
                     </p>
