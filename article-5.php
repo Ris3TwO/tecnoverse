@@ -154,13 +154,7 @@
                     </p>
                     <p class="lead">
                         La iniciativa del proyecto se da hace ya una decada, cuando se plantea la necesidad de crear una red global de telescopios, en vista de que logicamente, no se podría frabricar uno del tamaño de la tierra para captar dichas imágenes. La más amplia separación que existe entre los telescopios separados los unos de los otros, es de hasta 10.000 kilometros, contando con una resolución mayor a la del Hubble con 1000 veces
-                        mayor capacidad. De por sí la localización de estos telescopios, tiene que ser en lugares con condiciones específicas, con una superficie plana y de naturaleza seca. Ya en el año 2017, sincronizaron perfectamente a los aparatos ubicados en 4 continentes para captar al agujero negro, corazón de la Vía Lactea en Sagitario A. Finalemente, la imagen del agujero negro Powehi en la galaxia M87, con un tamaño de 6500 millones de masas solares, fue la que resultó más nitida.
-                    </p>
-                    <p class="lead ">
-                        La astronoma Gloria Dubner, ex directora del Instituto de Astronomía y Fisica del Espacio, explicó en la proyección de esta hazaña, todos los factores a intervenir para obtener dicha imagen. Para hacernos una idea, explica que, si tuviesemos una resolución angular comparable en luz visible, podríamos leer claramente cartelitos escritos con letras de 6,5 cm de alto ubicados en la luna.
-                    </p>
-                    <p class="lead ">
-                        Luego de que la enorme red de telescopios enfocara a este monstruo cosmico por 4 días seguidos, se avecinaba otra ardua tarea. Una vez terminada la odisea en captar esta primera y extraordinaria imagen de un agujero negro
+                        mayor capacidad. De por sí la localización de estos telescopios, tiene que ser en lugares con condiciones específicas, con una superficie
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-6 img-block">
@@ -175,12 +169,15 @@
                 </div>
                 <div class="col-xs-12 col-md-6 ">
                     <p class="lead">
-                        supermasivo, era hora de procesarla. La cantidad de información que representó esta imagen, se estima que fue de aproximadamente 5000 terabytes, imposible de enviar por fibra óptica, por lo que tuvieron que almacernarla en seis metros cúbicos de discos duros y ser enviadas por avion en pleno invierno polar lo cual retraso en meses su llegada. Katie Bouman, miembro de los 200 integrantes que conformaron el proyecto, fue una pieza clave para poder revelar la imagen. Al ser
+                        plana y de naturaleza seca. Ya en el año 2017, sincronizaron perfectamente a los aparatos ubicados en 4 continentes para captar al agujero negro, corazón de la Vía Lactea en Sagitario A. Finalemente, la imagen del agujero negro Powehi en la galaxia M87, con un tamaño de 6500 millones de masas solares, fue la que resultó más nitida.
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-12">
-                    <p class="lead">
-                        tanta la información almacenada, esta joven científica de 30 años, configuró un algoritmo especial para poder hacer el trabajo pesado, un poco más fácil. Este proceso duró 2 semanas.
+                    <p class="lead ">
+                        La astronoma Gloria Dubner, ex directora del Instituto de Astronomía y Fisica del Espacio, explicó en la proyección de esta hazaña, todos los factores a intervenir para obtener dicha imagen. Para hacernos una idea, explica que, si tuviesemos una resolución angular comparable en luz visible, podríamos leer claramente cartelitos escritos con letras de 6,5 cm de alto ubicados en la luna.
+                    </p>
+                    <p class="lead ">
+                        Luego de que la enorme red de telescopios enfocara a este monstruo cosmico por 4 días seguidos, se avecinaba otra ardua tarea. Una vez terminada la odisea en captar esta primera y extraordinaria imagen de un agujero negro supermasivo, era hora de procesarla. La cantidad de información que representó esta imagen, se estima que fue de aproximadamente 5000 terabytes, imposible de enviar por fibra óptica, por lo que tuvieron que almacernarla en seis metros cúbicos de discos duros y ser enviadas por avion en pleno invierno polar lo cual retraso en meses su llegada. Katie Bouman, miembro de los 200 integrantes que conformaron el proyecto, fue una pieza clave para poder revelar la imagen. Al ser tanta la información almacenada, esta joven científica de 30 años, configuró un algoritmo especial para poder hacer el trabajo pesado, un poco más fácil. Este proceso duró 2 semanas.
                     </p>
                     <p class="lead ">
                         El resultado final, fue la imagen que le dio la vuelta al mundo el 10 de abril del presente año, siendo considerada por muchos, como la fotografía del año.
