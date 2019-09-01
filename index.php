@@ -204,7 +204,7 @@
                             <div class="card profile-two">
 
                                 <div class="card-image profile-img--two">
-                                    <img src="https://image.ibb.co/c9rY6J/profile02.jpg" alt="Katherina Perez">
+                                    <img src="./img/team/katherine-perez" alt="Katherine Pérez">
                                 </div>
 
                                 <ul class="social-icons">
@@ -231,7 +231,7 @@
                                 </ul>
 
                                 <div class="details jane">
-                                    <h2>Katherina Perez
+                                    <h2>Katherine Pérez
                                         <br>
                                         <span class="job-title">Investigador y Periodista en Psicología</span>
                                     </h2>
@@ -261,16 +261,6 @@
                                             <i class="fab fa-instagram"></i>
                                         </a>
                                     </li>
-                                    <!-- <li>
-                                        <a href="">
-                                            <i class="fab fa-twitter"></i>
-                                        </a>
-                                    </li>
-                                    <li>
-                                        <a href="">
-                                            <i class="fab fa-dribbble"></i>
-                                        </a>
-                                    </li> -->
                                 </ul>
 
                                 <div class="details jane">
@@ -352,11 +342,6 @@
                                             <i class="fab fa-twitter"></i>
                                         </a>
                                     </li>
-                                    <!-- <li>
-                                        <a href="">
-                                            <i class="fab fa-dribbble"></i>
-                                        </a>
-                                    </li> -->
                                 </ul>
 
                                 <div class="details jane">
@@ -584,7 +569,7 @@
                                 <img src="https://picsum.photos/id/981/160/140?blur=2" class="img-responsive img-article-optional" alt="">
                                 <h4>Título del artículo</h4>
                             </a>
-                            <small>Katherina Perez</small>
+                            <small>Katherine Pérez</small>
                         </div>
                     </div>
                 </div>
