@@ -446,7 +446,7 @@
                     <div class="quote-curious-body">
                         <div class="quote-curious-text">
                             <p class="q">
-                                ¿Sabías qué? Los agujeros negros en realidad son invisibles. Dignos de todo el misticismo que los rodea, un agujero negro es una región deformada del espacio; una estrella muerta, que ha perdido toda característica de materia, excepto una fuerza gravitacional incomparable, la cual es una de las formas por las cuales se detectan estos colosos: si en una región vacía y oscura del espacio, multiples objetos giran a altas velocidades alrededor de este vacío, se trata entonces de un agujero negro. Ni siquiera la luz puede escapar de ellos. Tal es el caso de «Powehi», agujero negro de la galaxia elíptica M87, el cual, en la primera imagen captada a uno de estos vórtices intergalácticos, se puede apreciar la luz de una estrella siendo absorbida por este, lo que nos muerta el Horizonte de Eventos; es decir, el punto de no retorno, el abismo. 
+                                ¿Sabías qué? Los agujeros negros en realidad son invisibles. Dignos de todo el misticismo que los rodea, un agujero negro es una región deformada del espacio; una estrella muerta, que ha perdido toda característica de materia, excepto una fuerza gravitacional incomparable, la cual es una de las formas por las cuales se detectan estos colosos: si en una región vacía y oscura del espacio, multiples objetos giran a altas velocidades alrededor de este vacío, se trata entonces de un agujero negro. Ni siquiera la luz puede escapar de ellos. Tal es el caso de «Powehi», agujero negro de la galaxia elíptica M87, el cual, en la primera imagen captada a uno de estos vórtices intergalácticos, se puede apreciar la luz de una estrella siendo absorbida por este, lo que nos muerta el Horizonte de Eventos; es decir, el punto de no retorno, el abismo.
                             </p>
                         </div>
                     </div>
@@ -457,6 +457,22 @@
                         <div class="quote-curious-text">
                             <p class="q">
                                 ¿Sabías qué? Científicos lograron hacer una botella de vodka en la zona radiactiva de Chernóbil. El profesor Jim Smith mencionó: «Cualquier químico te diría que cuando destilas algo, las impurezas se quedan en el producto que se desecha, así que nosotros usamos granos de centeno ligeramente contaminados y agua del acuífero de Chernóbil... y los destilamos». Este producto fue analizado en el laboratorio radiactivo de la Universidad de Southampton, en el sur de Inglaterra y no pudieron encontrar nada ya que todo estaba bajo su límite de radiación.
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- Quote Curious-->
+                <article class="quote-curious">
+                    <div class="quote-curious-body">
+                        <div class="quote-curious-text">
+                            <p class="q">
+                                ¿Sabías qué? Lo que hasta ahora se consideraba como &quot;ADN basura&quot; es, en realidad, un
+                                componente útil e importante en el genoma humano, que funciona como un gran panel de control
+                                con millones de &quot;interruptores&quot; que regulan la actividad de nuestros genes.
+                                Desde que James Watson y Francis Crick, descubrieran en la década de 1950 la famosa estructura
+                                de doble hélice, el modelo del ADN que conocemos y manejamos en la actualidad, los científicos
+                                han estado debatiendo qué grado del genoma es responsable de hacer que seamos tal y como
+                                somos.
                             </p>
                         </div>
                     </div>
@@ -487,9 +503,9 @@
                                     <small>Jorgelis Chávez</small>
                                 </p>
                                 <p style="text-align:justify;">
-                                    La NASA desarrolló una nueva tecnología para diagnosticar enfermedades, 
+                                    La NASA desarrolló una nueva tecnología para diagnosticar enfermedades,
                                     como el cáncer, antes de que las persona la padezcan. Esta nueva modalidad
-                                    es diseñada empleando robots miniatura (nanotecnología). Este emprendimiento científico es impulsado por la directora científica de la NASA, Kathie Olsen, junto a un equipo de especialistas. 
+                                    es diseñada empleando robots miniatura (nanotecnología). Este emprendimiento científico es impulsado por la directora científica de la NASA, Kathie Olsen, junto a un equipo de especialistas.
                                 </p>
                                 <a href="./articles/tecnologia-curativa-microbots-medicos" class="btn btn-sm btn-default"><span class="glyphicon glyphicon-new-window"></span> Leer más</a>
                             </div>
@@ -509,7 +525,7 @@
                                     </div>
                                     <div class="card-right">
                                         <small>Jorgelis Chávez</small>
-                                        <p>La NASA descubre, una  estrella  de  secuencia principal que cuenta con el mayor sistema planetario observado desde la Vía Láctea. Parecido al sistema solar, este cuento con 8 planetas a su entorno...
+                                        <p>La NASA descubre, una estrella de secuencia principal que cuenta con el mayor sistema planetario observado desde la Vía Láctea. Parecido al sistema solar, este cuento con 8 planetas a su entorno...
                                         </p>
                                         <a href="./articles/kepler-90i-sorprendente-sistema-estelar-descubierto-por-una-ia" class="btn btn-sm btn-default"><span class="glyphicon glyphicon-new-window"></span> Leer más</a>
                                     </div>
