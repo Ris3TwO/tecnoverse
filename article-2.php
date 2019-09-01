@@ -142,7 +142,7 @@
                 </div>
                 <div class="col-xs-12 col-md-6 img-block">
                     <div id="img-block">
-                        <a href="../../img/articles/2/article-secondary.jpg">
+                        <a href="../../img/articles/2/article-secondary.png">
                             <img class="img-responsive img-secondary" src="../../img/articles/2/article-secondary-thumbnail.jpg" alt=" ">
                         </a>
                     </div>
