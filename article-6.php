@@ -159,7 +159,7 @@
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-6 img-block">
-                    <div id="img-block">
+                    <div id="img-block2">
                         <a href="../../img/articles/6/article-secondary.jpg">
                             <img class="img-responsive img-secondary" src="../../img/articles/6/article-secondary-thumbnail.jpg" alt=" ">
                         </a>
@@ -241,6 +241,7 @@
         $(document).ready(function() {
             $("#gallery").lightGallery();
             $("#img-block").lightGallery();
+            $("#img-block2").lightGallery();
             console.log('¡Está corriendo la gallery!');
         });
     </script>
