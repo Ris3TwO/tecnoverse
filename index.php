@@ -161,7 +161,7 @@
                             <div class="card profile-two">
 
                                 <div class="card-image profile-img--two">
-                                    <img src="./img/team/derian-rojas.jpeg" alt="profile two">
+                                    <img src="./img/team/derian-rojas.jpeg" alt="Derian Rojas">
                                 </div>
 
                                 <ul class="social-icons">
@@ -204,7 +204,7 @@
                             <div class="card profile-two">
 
                                 <div class="card-image profile-img--two">
-                                    <img src="https://image.ibb.co/c9rY6J/profile02.jpg" alt="profile two">
+                                    <img src="https://image.ibb.co/c9rY6J/profile02.jpg" alt="Katherina Perez">
                                 </div>
 
                                 <ul class="social-icons">
@@ -247,7 +247,7 @@
                             <div class="card profile-two">
 
                                 <div class="card-image profile-img--two">
-                                    <img src="https://image.ibb.co/c9rY6J/profile02.jpg" alt="profile two">
+                                    <img src="./img/team/yaremi-mendoza.jpg" alt="Yaremí Mendoza">
                                 </div>
 
                                 <ul class="social-icons">
@@ -290,7 +290,7 @@
                             <div class="card profile-two">
 
                                 <div class="card-image profile-img--two">
-                                    <img src="./img/team/jorgelis-chavez.jpg" alt="profile two">
+                                    <img src="./img/team/jorgelis-chavez.jpg" alt="Jorgelis Chavez">
                                 </div>
 
                                 <ul class="social-icons">
@@ -319,7 +319,7 @@
                                 <div class="details jane">
                                     <h2>Jorgelis Chavez
                                         <br>
-                                        <span class="job-title">Investigador y Periodista en Robótica e IA</span>
+                                        <span class="job-title">Investigador y Periodista en Robótica e I.A</span>
                                     </h2>
                                 </div>
                             </div>
@@ -333,7 +333,7 @@
                             <div class="card profile-two">
 
                                 <div class="card-image profile-img--two">
-                                    <img src="./img/team/zully-alvarado.jpg" alt="profile two">
+                                    <img src="./img/team/zully-alvarado.jpg" alt="Zully Alvarado">
                                 </div>
 
                                 <ul class="social-icons">
@@ -376,7 +376,7 @@
                             <div class="card profile-two">
 
                                 <div class="card-image profile-img--two">
-                                    <img src="./img/team/rebeca-martinez.jpg" alt="profile two">
+                                    <img src="./img/team/rebeca-martinez.jpg" alt="Rebeca Martinez">
                                 </div>
 
                                 <ul class="social-icons">
