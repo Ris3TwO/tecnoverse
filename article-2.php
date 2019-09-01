@@ -159,8 +159,8 @@
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-12 ">
-                    <p class="l">
-                    30% más grande que la Tierra, y está tan cerca a su estrella madre que la temperatura promedio de la superficie excede los 426° Celsius, similar a Mercurio.
+                    <p class="lead">
+                        30% más grande que la Tierra, y está tan cerca a su estrella madre que la temperatura promedio de la superficie excede los 426° Celsius, similar a Mercurio.
                     </p>
                     <p class="lead">
                         Durante las observaciones con el telescopio espacial, en el período 2008-2013 se proporcionó evidencia de la existencia de exoplanetas usando el método de tránsito, método que muestra el tamaño de un planeta, pero no su masa. Los planetas se nombran en función de su distancia a la estrella. Kepler-90b es el más cercano al interior, siendo Kepler-90h el más exterior de los ocho planetas conocidos.
