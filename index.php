@@ -129,8 +129,8 @@
 
                 <div class="col-xs-12 col-md-6">
                     <div id="lightgallery">
-                        <a href="https://picsum.photos/600/320">
-                            <img src="https://picsum.photos/600/320" class="img-responsive" alt="">
+                        <a href="https://picsum.photos/id/2/5616/3744">
+                            <img src="https://picsum.photos/id/2/600/320" class="img-responsive" alt="">
                         </a>
                     </div>
                 </div>
@@ -170,7 +170,7 @@
                                             <i class="fab fa-facebook-f"></i>
                                         </a>
                                     </li>
-                                    <li>
+                                    <!-- <li>
                                         <a href="">
                                             <i class="fab fa-instagram"></i>
                                         </a>
@@ -184,7 +184,7 @@
                                         <a href="">
                                             <i class="fab fa-dribbble"></i>
                                         </a>
-                                    </li>
+                                    </li> -->
                                 </ul>
 
                                 <div class="details jane">
@@ -289,7 +289,7 @@
                                             <i class="fab fa-facebook-f"></i>
                                         </a>
                                     </li>
-                                    <li>
+                                    <!-- <li>
                                         <a href="">
                                             <i class="fab fa-instagram"></i>
                                         </a>
@@ -303,7 +303,7 @@
                                         <a href="">
                                             <i class="fab fa-dribbble"></i>
                                         </a>
-                                    </li>
+                                    </li> -->
                                 </ul>
 
                                 <div class="details jane">
