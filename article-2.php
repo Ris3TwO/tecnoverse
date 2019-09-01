@@ -140,11 +140,6 @@
                         La inteligencia artificial usada para este hallazgo es denominada como «aprendizaje automático» o «de máquina», y su objetivo es desarrollar técnicas que permiten que la computadora aprenda.
                     </p>
                 </div>
-                <div class="col-xs-12 col-md-6 ">
-                    <p class="lead ">
-                        El aprendizaje automático es un tipo de inteligencia artificial que proporciona a las computadoras la capacidad de aprender, sin ser programadas explícitamente. El aprendizaje automático se centra en el desarrollo de programas informáticos que puedan cambiar cuando se exponen a nuevos datos.
-                    </p>
-                </div>
                 <div class="col-xs-12 col-md-6 img-block">
                     <div id="img-block">
                         <a href="../../img/articles/2/article-secondary.jpg">
@@ -153,6 +148,11 @@
                     </div>
                     <p class="img-text">
                         <small>Cortesía de Auronews</small>
+                    </p>
+                </div>
+                <div class="col-xs-12 col-md-6 ">
+                    <p class="lead ">
+                        El aprendizaje automático es un tipo de inteligencia artificial que proporciona a las computadoras la capacidad de aprender, sin ser programadas explícitamente. El aprendizaje automático se centra en el desarrollo de programas informáticos que puedan cambiar cuando se exponen a nuevos datos.
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-12 ">
