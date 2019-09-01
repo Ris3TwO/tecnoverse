@@ -137,12 +137,12 @@
                         La NASA desarrolló una nueva tecnología para diagnosticar enfermedades, como el cáncer, antes de que las persona la padezcan. Esta nueva modalidad es diseñada empleando, robots miniatura (nanotecnología). Este emprendimiento científico es impulsado por la directora científica de la NASA, Kathie Olsen, junto a un equipo de especialistas.
                     </p>
                     <p class="lead ">
-                        Durante mucho tiempo el objetivo de la NASA era enviar al primer hombre a la luna y traerlo sano, sin embargo, el espacio es mortal para el ser humano, y el mismo no podría estar tanto tiempo en el espacio debido a que la gravedad es uno de los factores que el organismo óseo no soporta. Esto gracias a que el astronauta pierde un poco la movilidad y estabilidad de su sistema óseo. También una de las causas de las enfermedades, son las fuertes radiaciones del sol ya que están más expuesto a él.
+                        Durante mucho tiempo el objetivo de la NASA era enviar al primer hombre a la luna y traerlo sano, sin embargo, el espacio es mortal para el ser humano, y el mismo no podría estar tanto tiempo en el espacio debido a que la gravedad es uno de los factores que el organismo óseo no soporta. Esto gracias a que el astronauta pierde un poco la movilidad y estabilidad de su sistema óseo. También una de las causas de las enfermedades, son las fuertes radiaciones del sol ya que están más expuestos a él.
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-6 ">
                     <p class="lead ">
-                        Es por ende que se ha venido estudiando el desarrollo de sistemas robóticos miniatura que eviten las enfermedades antes de que ataquen el sistema inmunológico humano, para así poderla eliminar, o descubrir qué la está causando. Esto podría ser posible con los microbots, unas pequeñas maquinas creadas por átomos, que cumplen la función de los glóbulos blancos, los cuales detectan organismos malignos, como un parasito, por ejemplo, para así eliminarlos.
+                        Es por ende que se ha venido estudiando el desarrollo de sistemas robóticos miniatura que eviten las enfermedades antes de que ataquen el sistema inmunológico humano, para así poderla eliminar o descubrir qué la está causando. Esto podría ser posible con los microbots, unas pequeñas maquinas creadas por átomos, que cumplen la función de los glóbulos blancos, los cuales detectan organismos malignos, como un parasito, por ejemplo, para así eliminarlos.
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-6 img-block">

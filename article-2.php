@@ -134,10 +134,10 @@
                         </p>
                     </div>
                     <p class="lead drop-cap ">
-                        La NASA descubre, una estrella de secuencia principal que cuenta con el mayor sistema planetario observado desde la Vía Láctea. Parecido al sistema solar, este cuento con 8 planetas a su entorno espacial. La misma fue nombrada, Kepler-90i. Este reciente hallazgo fue realizado con los aportes de Google, y el uso de una inteligencia artificial llamada «aprendizaje de máquina». El hecho científico fue anunciado el 14 de diciembre del 2017, por la National Aeronautics and Space Administration (NASA).
+                        La NASA descubre una estrella de secuencia principal que cuenta con el mayor sistema planetario observado desde la Vía Láctea. Parecido al sistema solar, este cuenta con 8 planetas en su entorno espacial. La misma fue nombrada, Kepler-90i. Este reciente hallazgo fue realizado con los aportes de Google, y el uso de una inteligencia artificial llamada «aprendizaje de máquina». El hecho científico fue anunciado el 14 de diciembre del 2017, por la National Aeronautics and Space Administration (NASA).
                     </p>
                     <p class="lead ">
-                        La inteligencia artificial usada para este hallazgo es denominada como «aprendizaje automático» o «de máquina», y su objetivo es desarrollar técnicas que permiten que la computadora aprenda.
+                        La inteligencia artificial usada para este hallazgo es denominada como «aprendizaje automático» o «de máquina» y su objetivo es desarrollar técnicas que permiten que la computadora aprenda.
                     </p>
                     <p class="lead ">
                         El aprendizaje automático es un tipo de inteligencia artificial que proporciona a las computadoras la capacidad de aprender, sin ser programadas explícitamente. El aprendizaje automático se centra en el desarrollo de programas informáticos que puedan cambiar cuando se exponen a nuevos datos.
