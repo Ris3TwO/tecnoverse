@@ -161,7 +161,7 @@
                             <div class="card profile-two">
 
                                 <div class="card-image profile-img--two">
-                                    <img src="./img/team/derian-rojas.jpeg" alt="Derian Rojas">
+                                    <img src="./img/team/derian-rojas.jpg" alt="Derian Rojas">
                                 </div>
 
                                 <ul class="social-icons">
