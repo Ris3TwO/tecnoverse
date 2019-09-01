@@ -123,7 +123,7 @@
                             </a>
                         </div>
                         <p class="img-text">
-                            <small>Cortesía de </small>
+                            <small>Cortesía de RT en Español</small>
                         </p>
                     </div>
                     <p class="lead drop-cap ">
@@ -145,11 +145,11 @@
                 <div class="col-xs-12 col-md-6 img-block">
                     <div id="img-block">
                         <a href="../../img/articles/5/article-secondary.jpg">
-                            <img class="img-responsive img-secondary" src="../../img/articles/5/article-secondary.jpg" alt=" ">
+                            <img class="img-responsive img-secondary" src="../../img/articles/5/article-secondary-thumbnail.jpg" alt=" ">
                         </a>
                     </div>
                     <p class="img-text">
-                        <small>Cortesía de </small>
+                        <small>Cortesía de RT en Español</small>
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-12 ">
@@ -165,12 +165,12 @@
                 </div>
                 <div class="col-xs-12 col-md-6 img-block">
                     <div id="img-block">
-                        <a href="../../img/articles/5/article-secondary.jpg">
-                            <img class="img-responsive img-secondary" src="../../img/articles/5/article-secondary.jpg" alt=" ">
+                        <a href="../../img/articles/5/article-secondary2.jpg">
+                            <img class="img-responsive img-secondary" src="../../img/articles/5/article-secondary2.jpg" alt=" ">
                         </a>
                     </div>
                     <p class="img-text">
-                        <small>Cortesía de </small>
+                        <small>Cortesía de University of Arizona</small>
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-6 ">
