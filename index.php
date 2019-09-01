@@ -510,7 +510,7 @@
                     <div class="card card-default">
                         <div class="card-body">
                             <div class="card-left">
-                                <img src="./img/articles/1/nasa.png" class="img-responsive img-article-primary">
+                                <img src="./img/articles/1/article-secondary-1.jpg" class="img-responsive img-article-primary">
                                 <p class="img-text">
                                     <small>Cortesía de Euronews</small>
                                 </p>
