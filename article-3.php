@@ -162,7 +162,7 @@
                     <p class="lead ">
                         Sin duda lo más espectacular de este televisor es su panel enrrollable. Esta es la primera apuesta que ya está lista en el mercado de TV para ser comercializado.
                     </p>
-                    <h3 class="sources">Fuentes: Xacata TV</h3>
+                    <h3 class="sources">Fuente: Xacata TV</h3>
                 </div>
             </div>
         </div>

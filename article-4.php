@@ -158,7 +158,7 @@
                     <p class="lead ">
                         Naciones al ver todo lo que esta sucediendo en dicho territorio y que es algo que nos afecta a todos y también es una crisis de magnitud internacional, se han puesto en marcha. Tal es el caso de Francia, país que donará un fondo de emergencia de 20 millones de euros para ayudar a Brasil y sus países vecinos para acabar con estos incendios.
                     </p>
-                    <h3 class="sources">Fuentes: Noticias de Ciencia</h3>
+                    <h3 class="sources">Fuente: Noticias de Ciencia</h3>
                 </div>
             </div>
         </div>

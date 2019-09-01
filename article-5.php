@@ -8,7 +8,7 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <!-- SITE TITLE -->
-    <title>Tecnología curativa, «microbots médicos» | Tecnoverse</title>
+    <title>«Powehi», la maravillosa primera imagen de un agujero negro supermasivo | Tecnoverse</title>
     <meta name="description" content="Tecnoverse magazine">
 
     <!-- Bootstrap CSS -->
@@ -96,14 +96,7 @@
     <section class="blog-page-1 blog-page parallax one-page-section">
         <div class="page-table">
             <div class="table-cell text-center">
-                <h3>¿Los médicos del futuro, serán robots?</h3>
-                <h1>Tecnología curativa, «microbots médicos»</h1>
-
-                <div class="col-md-8 col-md-offset-2">
-                    <p class="summary">
-                        La nanotecnología, que tiene el poder de diagnosticar enfermedades antes de que las personas las padezca
-                    </p>
-                </div>
+                <h1>«Powehi», la maravillosa primera imagen de un agujero negro supermasivo</h1>
                 <a href="#blog" class="scroll home-s-btn hor-center"><span class="dot center"></span></a>
             </div>
         </div>
@@ -117,58 +110,58 @@
                 <div class="col-xs-12 col-md-12">
                     <div class="col-md-12 col-md-offset-1">
                         <h4 class="writer-name">
-                            Jorgelis Chávez
+                            Derian Rojas
                             <span class="time-publish">
-                                31 AGO 2019 - 17:10 CEST
+                                27 AGO 2019 - 16:01 CEST
                             </span>
                         </h4>
                     </div>
                     <div class="text-center" style="padding-bottom: 2em;">
                         <div id="gallery">
-                            <a href="../../img/articles/1/article-primary.jpg">
-                                <img class="img-responsive-2 img-primary" src="../../img/articles/1/article-primary-thumbnail.jpg" alt=" ">
+                            <a href="../../img/articles/5/article-primary.jpg">
+                                <img class="img-responsive-2 img-primary" src="../../img/articles/5/article-primary-thumbnail.jpg" alt=" ">
                             </a>
                         </div>
                         <p class="img-text">
-                            <small>Cortesía de Noticias Sin</small>
+                            <small>Cortesía de </small>
                         </p>
                     </div>
                     <p class="lead drop-cap ">
-                        La NASA desarrolló una nueva tecnología para diagnosticar enfermedades, como el cáncer, antes de que las persona la padezcan. Esta nueva modalidad es diseñada empleando, robots miniatura (nanotecnología). Este emprendimiento científico es impulsado por la directora científica de la NASA, Kathie Olsen, junto a un equipo de especialistas.
+                        A millones y millones de años luz de la tierra, en el centro de la galaxia elíptica M87, se encuentra uno de los fenomenos más grandes de la astronomía y la ciencia; sin molestia alguna, del universo entero. Todas las galaxias en su defecto, poseen en su justo centro un agujero negro, que mantiene a todos los planetas y estrellas, incluso sistemas solares enteros en orbita, y esta galaxia no es la excepción. Fue llamado «Powehi», nombre que le fue otorgado por el profesor de hawaiano Larry Kimura, que significa «La creación oscura adornada e insondable».
                     </p>
                     <p class="lead ">
-                        Durante mucho tiempo el objetivo de la NASA era enviar al primer hombre a la luna y traerlo sano, sin embargo, el espacio es mortal para el ser humano, y el mismo no podría estar tanto tiempo en el espacio debido a que la gravedad es uno de los factores que el organismo óseo no soporta. Esto gracias a que el astronauta pierde un poco la movilidad y estabilidad de su sistema óseo. También una de las causas de las enfermedades, son las fuertes radiaciones del sol ya que están más expuesto a él.
+                        Fuera de lo insólito que puede llegar a ser nuestro universo, y el increible avance que la fotografía a este corazon galactico representa, es importante también considerar el esfuerzo descomunal que se hizo para poder tomar dicha imagen, y hacerla llegar a todos nosotros.
+                    </p>
+                    <p class="lead ">
+                        El proyecto Telescopio de Horizonte de Sucesos, es una red global de radiotelescopios, ubicados en distintos puntos del globo terrestre, en 4 continentes. Aquí participan instituciones como el MIT, el Centro de Astrofisica de Harvar-Smithsonian, y el Observatorio de Haystack, quienes estaban dirigidos en 2016 por Katie Bouman, sin embargo, es Sheperd Doeleman el director del proyecto. Su objetivo fundamental, es captar con gran resolución el agujero negro que se encuentra en nuesta galaxia Vía Lactea, especificamente en la estructura mayor Sagitario A, que se encuentra a tan sólo 27.000 años luz de distancia de la tierra. Sin embargo, el proyecto tomó un leve desvío momentaneo en sus prioridades, debido a la gran cantidad de polvo espacial, y otros residuos cosmicos que impedían captar con claridad dicho agujero. Es importante que, entre esta red de telescopios, que conforman en total uno mismo del tamaño del planeta tierra, y el objetivo a ser captado, no haya obstaculos en medio, los cuales parecían abundar en el camino hasta el agujero negro de Sagitario A. Es por esto que Powehi, en el justo corazon de M87, que se encuentra a 55 millones de años luz de la tierra, fue considerado como candidato perfecto para este proyecto.
+                    </p>
+                    <p class="lead">
+                        La iniciativa del proyecto se da hace ya una decada, cuando se plantea la necesidad de crear una red global de telescopios, en vista de que logicamente, no se podría frabricar uno del tamaño de la tierra para captar dichas imágenes. La más amplia separación que existe entre los telescopios separados los unos de los otros, es de hasta 10.000 kilometros, contando con una resolución mayor a la del Hubble con 1000 veces mayor capacidad. De por sí la localización de estos telescopios, tiene que ser en lugares con condiciones específicas, con una superficie plana y de naturaleza seca. Ya en el año 2017, sincronizaron perfectamente a los aparatos ubicados en 4 continentes para captar al agujero negro, corazón de la Vía Lactea en Sagitario A. Finalemente, la imagen del agujero negro Powehi en la galaxia M87, con un tamaño de 6500 millones de masas solares, fue la que resultó más nitida.
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-6 ">
                     <p class="lead ">
-                        Es por ende que se ha venido estudiando el desarrollo de sistemas robóticos miniatura que eviten las enfermedades antes de que ataquen el sistema inmunológico humano, para así poderla eliminar, o descubrir qué la está causando. Esto podría ser posible con los microbots, unas pequeñas maquinas creadas por átomos, que cumplen la función de los glóbulos blancos, los cuales detectan organismos malignos, como un parasito, por ejemplo, para así eliminarlos.
+                        La astronoma Gloria Dubner, ex directora del Instituto de Astronomía y Fisica del Espacio, explicó en la proyección de esta hazaña, todos los factores a intervenir para obtener dicha imagen. Para hacernos una idea, explica que, si tuviesemos una resolución angular comparable en luz visible, podríamos leer claramente cartelitos escritos con letras de 6,5 cm de alto ubicados en la luna.
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-6 img-block">
                     <div id="img-block">
-                        <a href="../../img/articles/1/article-secondary-1.jpg">
-                            <img class="img-responsive img-secondary" src="../../img/articles/1/article-secondary-1.jpg" alt=" ">
+                        <a href="../../img/articles/5/article-secondary.jpg">
+                            <img class="img-responsive img-secondary" src="../../img/articles/5/article-secondary.jpg" alt=" ">
                         </a>
                     </div>
                     <p class="img-text">
-                        <small>Cortesía de Nanotecnología Medica</small>
+                        <small>Cortesía de </small>
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-12 ">
                     <p class="lead ">
-                        Las nanomáquinas, reconstruirán tejidos óseos. Entrarán y saldrán de las células, al detectar algún cambio o defecto, enviando un mensaje con un diagnóstico y una orden a los nano terapeutas: estos entran a la célula y la vuelven a su estado normal. Sin nanomedicina la NASA tendría muchas dificultades en sus expediciones espaciales. 
+                        Luego de que la enorme red de telescopios enfocara a este monstruo cosmico por 4 días seguidos, se avecinaba otra ardua tarea.Una vez terminada la odisea en captar esta primera y extraordinaria imagen de un agujero negro supermasivo, era hora de procesarla. La cantidad de información que representó esta imagen, se estima que fue de aproximadamente 5000 terabytes, imposible de enviar por fibra óptica, por lo que tuvieron que almacernarla en seis metros cúbicos de discos duros y ser enviadas por avion en pleno invierno polar lo cual retraso en meses su llegada. Katie Bouman, miembro de los 200 integrantes que conformaron el proyecto, fue una pieza clave para poder revelar la imagen. Al ser tanta la información almacenada, esta joven científica de 30 años, configuró un algoritmo especial para poder hacer el trabajo pesado, un poco más fácil. Este proceso duró 2 semanas. 
                     </p>
                     <p class="lead ">
-                        Estos robots médicos, son los resultados de una posible cura para todas las patologías mortales.  Este importante hecho, será de gran impacto para sociedad   actual. 
+                        El resultado final, fue la imagen que le dio la vuelta al mundo el 10 de abril del presente año, siendo considerada por muchos, como la fotografía del año.
                     </p>
-                    <p class="lead ">
-                        Una importante pregunta, es: ¿Cómo el nano médico será introducido al organismo humano? Por medio de una píldora o capsula que sería consumida de forma oral en el ser humano.
-                    </p>
-                    <p class="lead ">
-                        Este hecho tecnológico fue inspirado en una película de ficción llamada «Un viaje alucinante». Esta producción cinematográfica tiene como parte de su trama hacer un viaje en submarino dentro del organismo humano en búsqueda de un coágulo de sangre, para así eliminarlo y resguardar la salud del humano.
-                    </p>
-                    <h3 class="sources">Fuentes: OMPI y ScienceAlert</h3>
+                    <h3 class="sources">Fuentes: La Nación, El Robot de Platón y Date un Vlog</h3>
                 </div>
             </div>
         </div>

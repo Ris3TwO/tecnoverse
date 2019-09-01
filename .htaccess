@@ -14,4 +14,5 @@ RewriteRule ^articles/tecnologia-curativa-microbots-medicos(|/)$ ./article-1.php
 RewriteRule ^articles/kepler-90i-sorprendente-sistema-estelar-descubierto-por-una-ia(|/)$ ./article-2.php
 RewriteRule ^articles/lg-muestra-mundo-primer-televisor-enrollable(|/)$ ./article-3.php
 RewriteRule ^articles/continuan-aumentando-los-incendios-amazonia(|/)$ ./article-4.php
-RewriteRule ^articles/solo-se-usa-el-10-del-mundo-digital(|/)$ ./article-6.php
+RewriteRule ^articles/powehi-maravillosa-primera-imagen-de-agujero-negro-supermasivo(|/)$ ./article-5.php
+RewriteRule ^articles/solo-se-usa-10-del-mundo-digital(|/)$ ./article-6.php

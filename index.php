@@ -576,21 +576,21 @@
                             <small>Zully Alvarado</small>
                         </div>
                         <div class="item text-center writer-name-article">
-                            <a href="./blog-single.html">
+                            <a href="./articles/powehi-maravillosa-primera-imagen-de-agujero-negro-supermasivo">
                                 <img src="https://picsum.photos/id/237/160/140" class="img-responsive img-article-optional" alt="">
                                 <h4>«Powehi», la maravillosa primera imagen de un agujero negro supermasivo</h4>
                             </a>
                             <small>Derian Rojas</small>
                         </div>
                         <div class="item text-center writer-name-article">
-                            <a href="./blog-single.html">
+                            <a href="./articles/solo-se-usa-10-del-mundo-digital">
                                 <img src="https://picsum.photos/160/140?grayscale" class="img-responsive img-article-optional" alt="">
                                 <h4>Sólo se usa el 10% del mundo digital</h4>
                             </a>
                             <small>Yaremí Mendoza</small>
                         </div>
                         <div class="item text-center writer-name-article">
-                            <a href="./blog-single.html">
+                            <a href="#0">
                                 <img src="https://picsum.photos/id/981/160/140?blur=2" class="img-responsive img-article-optional" alt="">
                                 <h4>Título del artículo</h4>
                             </a>
