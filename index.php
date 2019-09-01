@@ -510,7 +510,7 @@
                     <div class="card card-default">
                         <div class="card-body">
                             <div class="card-left">
-                                <img src="https://picsum.photos/620/420" class="img-responsive">
+                                <img src="https://picsum.photos/620/420" class="img-responsive img-article-primary">
                                 <p class="img-text">
                                     <small>Mensaje debajo de la imagen</small>
                                 </p>
@@ -535,7 +535,7 @@
                                 </div>
                                 <div class="card-body card-5-7">
                                     <div class="card-left">
-                                        <img src="https://picsum.photos/320/300" class="img-responsive">
+                                        <img src="https://picsum.photos/320/300" class="img-responsive img-article-secondary">
                                     </div>
                                     <div class="card-right">
                                         <small>Nombre y Apellido</small>
@@ -555,7 +555,7 @@
                                 </div>
                                 <div class="card-body card-5-7">
                                     <div class="card-left">
-                                        <img src="https://picsum.photos/320/300" class="img-responsive">
+                                        <img src="https://picsum.photos/320/300" class="img-responsive img-article-secondary">
                                     </div>
                                     <div class="card-right">
                                         <small>Nombre y Apellido</small>

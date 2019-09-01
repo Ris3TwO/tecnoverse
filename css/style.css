@@ -131,9 +131,14 @@ img {
     text-align: center;
 }
 
-.img-article-1 {
+.img-article-primary {
     width: 620px;
     height: 420px;
+}
+
+.img-article-secondary {
+    width: 320px;
+    height: 300px;
 }
 
 .img-responsive {
