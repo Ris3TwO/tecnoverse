@@ -1677,6 +1677,11 @@ Blog
     padding-right: 10em;
 }
 
+.img-primary {
+    width: 1020px;
+    height: auto;
+}
+
 
 /*----------------------------------------
 Contact

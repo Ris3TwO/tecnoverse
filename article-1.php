@@ -8,7 +8,7 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <!-- SITE TITLE -->
-    <title>Sólo se usa el 10% del mundo digital | Tecnoverse</title>
+    <title>Tecnología curativa, «microbots médicos» | Tecnoverse</title>
     <meta name="description" content="Tecnoverse magazine">
 
     <!-- Bootstrap CSS -->
@@ -101,7 +101,7 @@
 
                 <div class="col-md-8 col-md-offset-2">
                     <p class="summary">
-                        La nanotecnología, que tiene el poder de diagnostica enfermedades antes de que las personas las padezca
+                        La nanotecnología, que tiene el poder de diagnosticar enfermedades antes de que las personas las padezca
                     </p>
                 </div>
                 <a href="#blog" class="scroll home-s-btn hor-center"><span class="dot center"></span></a>
@@ -125,8 +125,8 @@
                     </div>
                     <div class="text-center" style="padding-bottom: 2em;">
                         <div id="gallery">
-                            <a href="https://picsum.photos/id/1021/1020/400">
-                                <img class="img-responsive-2" src="https://picsum.photos/id/1021/1020/400" alt=" ">
+                            <a href="../../img/1/article-primary.jpg">
+                                <img class="img-responsive-2 img-primary" src="../../img/1/article-primary.jpg" alt=" ">
                             </a>
                         </div>
                         <p class="img-text">
