@@ -1630,6 +1630,10 @@ Blog
     font-style: italic;
 }
 
+.blog-page-1 {
+    background-image: url(../img/articles/blog-header1.jpg);
+}
+
 .blog-page-4 {
     background-image: url(../img/blog-header2.jpg);
 }
