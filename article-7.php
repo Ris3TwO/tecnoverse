@@ -204,7 +204,7 @@
                         menos 30 minutos al día, sonreír más, meditar, descansar, crear y repetir afirmaciones positivas y
                         la más importante de todas éstas: disfrutar cada momento, dando un valor especial a cada día.
                     </p>
-                    <h3 class="sources">Fuentes: Psicorumbo, Manifiestalo.com, Exito y Superación Persona, ResearchGate y La Vanguardia</h3>
+                    <h3 class="sources">Fuentes: Psicorumbo, Manifiestalo.com, Exito y Superación Personal, ResearchGate y La Vanguardia</h3>
                 </div>
             </div>
         </div>
