@@ -170,12 +170,12 @@
                                             <i class="fab fa-facebook-f"></i>
                                         </a>
                                     </li>
-                                    <!-- <li>
-                                        <a href="">
+                                    <li>
+                                        <a href="https://www.instagram.com/pai_lique" target="_blank">
                                             <i class="fab fa-instagram"></i>
                                         </a>
                                     </li>
-                                    <li>
+                                    <!-- <li>
                                         <a href="">
                                             <i class="fab fa-twitter"></i>
                                         </a>
@@ -190,7 +190,7 @@
                                 <div class="details jane">
                                     <h2>Derian Rojas
                                         <br>
-                                        <span class="job-title">Investigador y Periodista en Astrofísica</span>
+                                        <span class="job-title">Investigador y Periodista en Astronomía</span>
                                     </h2>
                                 </div>
                             </div>
