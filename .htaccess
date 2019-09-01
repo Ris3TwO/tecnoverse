@@ -11,4 +11,5 @@ RewriteEngine on
 
 RewriteRule ^home(|/)$ ./index.php
 RewriteRule ^articles/tecnologia-curativa-microbots-medicos(|/)$ ./article-1.php
+RewriteRule ^articles/lg-muestra-mundo-primer-televisor-enrollable(|/)$ ./article-3.php
 RewriteRule ^articles/solo-se-usa-el-10-del-mundo-digital(|/)$ ./article-6.php

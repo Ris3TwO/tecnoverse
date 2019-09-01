@@ -160,7 +160,7 @@
                         Las nanomáquinas, reconstruirán tejidos óseos. Entrarán y saldrán de las células, al detectar algún cambio o defecto, enviando un mensaje con un diagnóstico y una orden a los nano terapeutas: estos entran a la célula y la vuelven a su estado normal. Sin nanomedicina la NASA tendría muchas dificultades en sus expediciones espaciales. 
                     </p>
                     <p class="lead ">
-                        Estos robots médicos, son los resultados de una posible cura para todas las patologías mortales.  Este importante hecho, será de gran impacto para sociedad   actual. 
+                        Estos robots médicos, son los resultados de una posible cura para todas las patologías mortales.  Este importante hecho, será de gran impacto para sociedad actual. 
                     </p>
                     <p class="lead ">
                         Una importante pregunta, es: ¿Cómo el nano médico será introducido al organismo humano? Por medio de una píldora o capsula que sería consumida de forma oral en el ser humano.

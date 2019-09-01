@@ -8,7 +8,7 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <!-- SITE TITLE -->
-    <title>Tecnología curativa, «microbots médicos» | Tecnoverse</title>
+    <title>LG le muestra al mundo el primer televisor enrollable | Tecnoverse</title>
     <meta name="description" content="Tecnoverse magazine">
 
     <!-- Bootstrap CSS -->
@@ -93,15 +93,15 @@
     <!-- END MAIN NAVIGATION BAR -->
 
     <!-- HEADER -->
-    <section class="blog-page-1 blog-page parallax one-page-section">
+    <section class="blog-page-3 blog-page parallax one-page-section">
         <div class="page-table">
             <div class="table-cell text-center">
-                <h3>¿Los médicos del futuro, serán robots?</h3>
-                <h1>Tecnología curativa, «microbots médicos»</h1>
+                <h3>Descubre el televisor que te ayudará a ahorrar espacio</h3>
+                <h1>LG le muestra al mundo el primer televisor enrollable</h1>
 
                 <div class="col-md-8 col-md-offset-2">
                     <p class="summary">
-                        La nanotecnología, que tiene el poder de diagnosticar enfermedades antes de que las personas las padezca
+                        El nuevo televisor enrrollable fue creado con la intención de ahorrarte espacio
                     </p>
                 </div>
                 <a href="#blog" class="scroll home-s-btn hor-center"><span class="dot center"></span></a>
@@ -117,9 +117,9 @@
                 <div class="col-xs-12 col-md-12">
                     <div class="col-md-12 col-md-offset-1">
                         <h4 class="writer-name">
-                            Jorgelis Chávez
+                            Rebeca Martinez 
                             <span class="time-publish">
-                                31 AGO 2019 - 17:10 CEST
+                                29 AGO 2019 - 11:33 CEST
                             </span>
                         </h4>
                     </div>
@@ -130,45 +130,39 @@
                             </a>
                         </div>
                         <p class="img-text">
-                            <small>Cortesía de Noticias Sin</small>
+                            <small>Cortesía de Topes de Gama</small>
                         </p>
                     </div>
                     <p class="lead drop-cap ">
-                        La NASA desarrolló una nueva tecnología para diagnosticar enfermedades, como el cáncer, antes de que las persona la padezcan. Esta nueva modalidad es diseñada empleando, robots miniatura (nanotecnología). Este emprendimiento científico es impulsado por la directora científica de la NASA, Kathie Olsen, junto a un equipo de especialistas.
+                        El tiempo avanza y con él la tecnología, una prueba de ello es el nuevo televisor enrrollable signature OLED TV R. Este impresionante televisor es la última creación de LG en cuanto a televisores, quien sin duda ha conseguido captar la atención de los usuarios gracias a su panel enrrollable. 
                     </p>
                     <p class="lead ">
-                        Durante mucho tiempo el objetivo de la NASA era enviar al primer hombre a la luna y traerlo sano, sin embargo, el espacio es mortal para el ser humano, y el mismo no podría estar tanto tiempo en el espacio debido a que la gravedad es uno de los factores que el organismo óseo no soporta. Esto gracias a que el astronauta pierde un poco la movilidad y estabilidad de su sistema óseo. También una de las causas de las enfermedades, son las fuertes radiaciones del sol ya que están más expuesto a él.
+                        El nuevo televisor de LG mostrado en la feria Consumer Electronics Show el presente año nos demuestra que la tecnología continúa avanzando de forma rápida, al punto de conseguir un televisor con panel enrrollable; un televisor que promete cambiar las reglas del juego.
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-6 ">
                     <p class="lead ">
-                        Es por ende que se ha venido estudiando el desarrollo de sistemas robóticos miniatura que eviten las enfermedades antes de que ataquen el sistema inmunológico humano, para así poderla eliminar, o descubrir qué la está causando. Esto podría ser posible con los microbots, unas pequeñas maquinas creadas por átomos, que cumplen la función de los glóbulos blancos, los cuales detectan organismos malignos, como un parasito, por ejemplo, para así eliminarlos.
+                        Años atrás se habían mostrado distintas apariciones de este televisor, sin embargo, se ha mostrado una propuesta muy diferente, pero además muy atractiva. En la feria celebrada en Las Vegas por CES, se ha presentado su versión real, una versión que ya está lista para ser lanzada al mercado y que promete bastante; hasta ahora el televisor signature OLED TV R es el más atractivo del mercado en lo relacionado al tema de televisores.
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-6 img-block">
                     <div id="img-block">
-                        <a href="../../img/articles/1/article-secondary-1.jpg">
-                            <img class="img-responsive img-secondary" src="../../img/articles/1/article-secondary-1.jpg" alt=" ">
+                        <a href="../../img/articles/1/article-secondary.jpg">
+                            <img class="img-responsive img-secondary" src="../../img/articles/1/article-secondary-thumbnail.jpg" alt=" ">
                         </a>
                     </div>
                     <p class="img-text">
-                        <small>Cortesía de Nanotecnología Medica</small>
+                        <small>Cortesía de Chapuzas Informático</small>
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-12 ">
                     <p class="lead ">
-                        Las nanomáquinas, reconstruirán tejidos óseos. Entrarán y saldrán de las células, al detectar algún cambio o defecto, enviando un mensaje con un diagnóstico y una orden a los nano terapeutas: estos entran a la célula y la vuelven a su estado normal. Sin nanomedicina la NASA tendría muchas dificultades en sus expediciones espaciales. 
+                        Así mismo, se dejan ver características hermosas, ya que es como si de una barra de sonido se tratase, pero con un poco más de profundidad para tener todo el mecanismo necesario que permite esconder la pantalla y toda su electrónica en general. Según Xataca TV, cuenta con tres posiciones de funcionamiento. En primer lugar, se puede hacer mención de la que ellos llaman Cero View, donde sólo se deja ver el chasis. Otra denominada Light View, en esta se deja ver una pequeña parte del panel para mostrar información como música, hora, entre otros, así como interactuar con el televisor. Por último, está la posición Full View, que es con el panel completamente desplegado, donde se cuenta con una pantalla de sesenta y cinco pulgadas. 
                     </p>
                     <p class="lead ">
-                        Estos robots médicos, son los resultados de una posible cura para todas las patologías mortales.  Este importante hecho, será de gran impacto para sociedad   actual. 
+                        Sin duda lo más espectacular de este televisor es su panel enrrollable. Esta es la primera apuesta que ya está lista en el mercado de TV para ser comercializado.
                     </p>
-                    <p class="lead ">
-                        Una importante pregunta, es: ¿Cómo el nano médico será introducido al organismo humano? Por medio de una píldora o capsula que sería consumida de forma oral en el ser humano.
-                    </p>
-                    <p class="lead ">
-                        Este hecho tecnológico fue inspirado en una película de ficción llamada «Un viaje alucinante». Esta producción cinematográfica tiene como parte de su trama hacer un viaje en submarino dentro del organismo humano en búsqueda de un coágulo de sangre, para así eliminarlo y resguardar la salud del humano.
-                    </p>
-                    <h3 class="sources">Fuentes: OMPI y ScienceAlert</h3>
+                    <h3 class="sources">Fuentes: Xacata TV</h3>
                 </div>
             </div>
         </div>
