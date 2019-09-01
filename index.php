@@ -514,7 +514,7 @@
                                     <small>Jorgelis Chávez</small>
                                 </p>
                                 <p style="text-align:justify;">
-                                    La NASA desarrolló una nueva tecnología para diagnosticar enfermedades, como el cáncer, antes de que las persona la padezcan. Esta nueva modalidad es diseñada empleando, robots miniatura (nanotecnología).
+                                    La NASA desarrolló una nueva tecnología para diagnosticar enfermedades, como el cáncer, antes de que las persona la padezcan. Esta nueva modalidad es diseñada empleando, robots miniatura (nanotecnología). Este emprendimiento científico es impulsado por la directora científica de la NASA, Kathie Olsen, junto a un equipo de especialistas. 
                                 </p>
                                 <a href="./articles/tecnologia-curativa-microbots-medicos" class="btn btn-sm btn-default"><span class="glyphicon glyphicon-new-window"></span> Leer más</a>
                             </div>
