@@ -93,7 +93,7 @@
     <!-- END MAIN NAVIGATION BAR -->
 
     <!-- HEADER -->
-    <section class="blog-page-1 blog-page parallax one-page-section">
+    <section class="blog-page-2 blog-page parallax one-page-section">
         <div class="page-table">
             <div class="table-cell text-center">
                 <h3>¿Una estrella o un sol?</h3>

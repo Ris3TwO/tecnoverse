@@ -1634,6 +1634,10 @@ Blog
     background-image: url(../img/articles/blog-header1.jpg);
 }
 
+.blog-page-2 {
+    background-image: url(../img/articles/blog-header2.jpg);
+}
+
 .blog-page-3 {
     background-image: url(../img/articles/blog-header3.jpg);
 }
