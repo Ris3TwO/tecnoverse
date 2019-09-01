@@ -214,18 +214,18 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="">
+                                        <a href="https://www.instagram.com/katherina_143" target="_blank">
                                             <i class="fab fa-instagram"></i>
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="">
+                                        <a href="https://www.twitter.com/kath143SUD" target="_blank">
                                             <i class="fab fa-twitter"></i>
                                         </a>
                                     </li>
                                     <li>
                                         <a href="">
-                                            <i class="fab fa-dribbble"></i>
+                                            <i class="fab fa-pinterest"></i>
                                         </a>
                                     </li>
                                 </ul>
