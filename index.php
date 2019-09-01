@@ -526,7 +526,7 @@
                         <div class="col-md-12">
                             <div class="card card-default">
                                 <div class="card-header">
-                                    <h2>La NASA descubre Kepler-90i, un sistema espacial muy parecido al sistema solar gracias a una Inteligencia Artificial</h2>
+                                    <h2>Kepler-90i: El sorprendente sistema estelar descubierto por una IA</h2>
                                 </div>
                                 <div class="card-body card-5-7">
                                     <div class="card-left">
