@@ -132,14 +132,10 @@
                     <p class="lead ">
                         Fuera de lo insólito que puede llegar a ser nuestro universo, y el increible avance que la fotografía a este corazon galactico representa, es importante también considerar el esfuerzo descomunal que se hizo para poder tomar dicha imagen, y hacerla llegar a todos nosotros.
                     </p>
-                    <p class="lead ">
-                        El proyecto Telescopio de Horizonte de Sucesos, es una red global de radiotelescopios, ubicados en distintos puntos del globo terrestre, en 4 continentes. Aquí participan instituciones como el MIT, el Centro de Astrofisica de Harvar-Smithsonian, y el Observatorio de Haystack, quienes estaban dirigidos en 2016 por Katie Bouman, sin embargo, es Sheperd Doeleman el director del proyecto. Su objetivo fundamental, es captar con gran resolución el agujero negro que se encuentra en nuesta galaxia Vía Lactea, especificamente en la estructura mayor Sagitario A, que se encuentra a tan sólo 27.000 años luz de distancia de la tierra. Sin embargo, el proyecto tomó un leve desvío momentaneo en sus prioridades, debido a la gran cantidad de polvo espacial, y otros residuos cosmicos que impedían captar con claridad dicho agujero. Es importante que, entre esta red de telescopios, que conforman en total uno mismo del tamaño del planeta tierra, y el objetivo a ser captado, no haya obstaculos en medio, los cuales parecían abundar en el camino hasta el agujero negro de Sagitario A. Es por esto que Powehi, en el justo corazon de M87, que se encuentra a 55 millones de años luz de la tierra, fue considerado como candidato perfecto para este proyecto.
-                    </p>
-
                 </div>
                 <div class="col-xs-12 col-md-6 ">
-                    <p class="lead">
-                        La iniciativa del proyecto se da hace ya una decada, cuando se plantea la necesidad de crear una red global de telescopios, en vista de que logicamente, no se podría frabricar uno del tamaño de la tierra para captar dichas imágenes. La más amplia separación que existe entre los telescopios separados los unos de los otros, es de hasta 10.000 kilometros, contando con una resolución mayor a la del Hubble con 1000 veces
+                    <p class="lead ">
+                        El proyecto Telescopio de Horizonte de Sucesos, es una red global de radiotelescopios, ubicados en distintos puntos del globo terrestre, en 4 continentes. Aquí participan instituciones como el MIT, el Centro de Astrofisica de Harvar-Smithsonian, y el Observatorio de Haystack, quienes estaban dirigidos en 2016 por Katie Bouman, sin embargo, es Sheperd Doeleman el director del proyecto. Su objetivo fundamental, es captar con gran resolución el agujero negro que se encuentra en nuesta galaxia Vía Lactea, especificamente en la estructura mayor Sagitario A, que se encuentra a tan sólo 27.000 años luz de distancia de la tierra. Sin embargo, el proyecto tomó un leve desvío momentaneo en sus prioridades, debido a la gran cantidad de polvo espacial, y otros residuos cosmicos que impedían captar con claridad dicho agujero. Es importante que, entre esta red de telescopios, que conforman en total uno mismo del tamaño del planeta tierra, y el objetivo a ser captado, no haya obstaculos en medio, los cuales parecían abundar en el camino hasta el agujero negro de Sagitario A. Es por esto que Powehi, en el justo corazon de M87, que se encuentra a 55 millones de años luz de la tierra, fue considerado como candidato perfecto para este proyecto.
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-6 img-block">
@@ -154,6 +150,7 @@
                 </div>
                 <div class="col-xs-12 col-md-12 ">
                     <p class="lead">
+                        La iniciativa del proyecto se da hace ya una decada, cuando se plantea la necesidad de crear una red global de telescopios, en vista de que logicamente, no se podría frabricar uno del tamaño de la tierra para captar dichas imágenes. La más amplia separación que existe entre los telescopios separados los unos de los otros, es de hasta 10.000 kilometros, contando con una resolución mayor a la del Hubble con 1000 veces
                         mayor capacidad. De por sí la localización de estos telescopios, tiene que ser en lugares con condiciones específicas, con una superficie plana y de naturaleza seca. Ya en el año 2017, sincronizaron perfectamente a los aparatos ubicados en 4 continentes para captar al agujero negro, corazón de la Vía Lactea en Sagitario A. Finalemente, la imagen del agujero negro Powehi en la galaxia M87, con un tamaño de 6500 millones de masas solares, fue la que resultó más nitida.
                     </p>
                     <p class="lead ">
