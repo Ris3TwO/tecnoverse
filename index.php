@@ -658,7 +658,7 @@
                         </div>
                         <div id="form-message" class="error mb-30 text-center"></div>
 
-                        <button type="submit" class="effect submit-btn">Enviar Mensaje</button>
+                        <button class="effect submit-btn">Enviar Mensaje</button>
 
                     </form>
                 </div>
