@@ -550,7 +550,7 @@
                                 </div>
                                 <div class="card-body card-5-7">
                                     <div class="card-left">
-                                        <img src="https://picsum.photos/320/300" class="img-responsive img-article-secondary">
+                                        <img src="./img/articles/1/article-secondary-thumbnail.jpg" class="img-responsive img-article-secondary">
                                     </div>
                                     <div class="card-right">
                                         <small>Rebeca Martinez</small>
