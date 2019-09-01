@@ -162,7 +162,7 @@
                             <div class="card profile-two">
 
                                 <div class="card-image profile-img--two">
-                                    <img src="https://image.ibb.co/c9rY6J/profile02.jpg" alt="profile two">
+                                    <img src="./img/team/derian-rojas.jpeg" alt="profile two">
                                 </div>
 
                                 <ul class="social-icons">
