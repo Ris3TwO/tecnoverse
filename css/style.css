@@ -131,6 +131,11 @@ img {
     text-align: center;
 }
 
+.img-article-1 {
+    width: 620px;
+    height: 420px;
+}
+
 .img-responsive {
     display: block;
     margin: auto;
