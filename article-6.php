@@ -135,8 +135,8 @@
                 </div>
                 <div class="col-xs-12 col-md-6 img-block">
                     <div id="img-block">
-                        <a href="../../img/articles/6/article-secondary.jpg">
-                            <img class="img-responsive img-secondary" src="../../img/articles/6/article-secondary-thumbnail.jpg" alt=" ">
+                        <a href="../../img/articles/6/article-secondary2.jpg">
+                            <img class="img-responsive img-secondary" src="../../img/articles/6/article-secondary2-thumbnail.jpg" alt=" ">
                         </a>
                     </div>
                     <p class="img-text">
@@ -145,10 +145,13 @@
                 </div>
                 <div class="col-xs-12 col-md-6">
                     <p class="lead ">
-                        Para aprender el uso debido, seguro y correcto de acceder a la «Red Oscura», existen portales como adslzone.net, vix.com, bloglenovo.es y redeszone.net, por mencionar algunos, en donde contienen artículos explicando paso a paso el proceso, también se puede conseguir un documento en formato PDF en el cual detalla como ingresar y de qué manera está compuesta. Estas páginas son caracterizadas por el anonimato que poseen. David Sancho, investigador de amenazas de Trend Micro, señala al diario ABC, que la Deep Web es incontrolable. «Una vez que se efectúa la conexión no es posible que ningún observador sea capaz de interceptarla ni espiarla, esto la convierte en un entorno ideal para realizar actividades criminales, así como para disidentes evitando ser controlados por gobiernos hostiles», lamenta.
+                        Para aprender el uso debido, seguro y correcto de acceder a la «Red Oscura», existen portales como adslzone.net, vix.com, bloglenovo.es y redeszone.net, por mencionar algunos, en donde contienen artículos explicando paso a paso el proceso, también se puede conseguir un documento en formato PDF en el cual detalla como ingresar y de qué manera está compuesta. Estas páginas son caracterizadas por el anonimato que poseen. David Sancho, investigador de amenazas de Trend Micro, señala al diario ABC, que la Deep Web es
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-12 ">
+                    <p class="lead">
+                        incontrolable. «Una vez que se efectúa la conexión no es posible que ningún observador sea capaz de interceptarla ni espiarla, esto la convierte en un entorno ideal para realizar actividades criminales, así como para disidentes evitando ser controlados por gobiernos hostiles», lamenta.
+                    </p>
                     <p class="lead ">
                         Cabe destacar que esta «Dark Web» conlleva una serie de riesgos incluidos en muchas de sus páginas, ya que como todas ellas tienen un alto nivel de anonimato se hace imposible monitorearlas. Ciertas partes de la misma son, técnicamente, inaccesibles a través de los medios tradicionales, por lo que se convierte en un lugar protegido y seguro para que cibercriminales o particulares de toda índole que ofrecen sus servicios considerados en su mayoría como ilegales en múltiples países.
                     </p>

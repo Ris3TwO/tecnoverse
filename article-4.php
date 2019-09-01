@@ -110,7 +110,7 @@
                 <div class="col-xs-12 col-md-12">
                     <div class="col-md-12 col-md-offset-1">
                         <h4 class="writer-name">
-                            Jorgelis Chávez
+                            Zully Alvarado
                             <span class="time-publish">
                                 30 AGO 2019 - 13:41 CEST
                             </span>
