@@ -431,7 +431,7 @@
                     <div class="quote-curious-body">
                         <div class="quote-curious-text">
                             <p class="q">
-                                ¿Sabías qué, un padre español e ingeniero de software en Microsoft llamado Julián Isla, está desarrollando en la actualidad una inteligencia artificial, que puede agilizar el proceso de diagnóstico de enfermedades sumamente raras?
+                                ¿Sabías qué? Un padre de origen español e Ingeniero de Software que trabaja para Microsoft llamado Julián Isla, está desarrollando en la actualidad una inteligencia artificial que puede agilizar el proceso de diagnóstico de enfermedades sumamente raras.
                             </p>
                         </div>
                     </div>
@@ -442,6 +442,16 @@
                         <div class="quote-curious-text">
                             <p class="q">
                                 ¿Sabías qué? Los premios IG Nobel son el contrario de los premios Nobel, aunque desde una postura divertida. En Física destaca el premio dedicado a Andréy Gueim, quien hizo gravitar a una rana en un campo magnético. 10 años más tarde ganó uno de verdad por sus teorías sobre el grafeno.
+                            </p>
+                        </div>
+                    </div>
+                </article>
+                <!-- Quote Curious-->
+                <article class="quote-curious">
+                    <div class="quote-curious-body">
+                        <div class="quote-curious-text">
+                            <p class="q">
+                                ¿Sabías que? El Estadounidense George Charles Devol fue el primero en construir un Robot Industrial en el mundo, fue quien estableció las bases del robot industrial moderno. Con el objetivo de diseñar una maquina flexible, adaptable al entorno y de fácil manejo. Es decir que este estadounidense es uno de los pioneros de la robotica; además junto a joseph F. Engelberger fundó la primera empresa de robotica de la historia, llamada (Unimation).
                             </p>
                         </div>
                     </div>
@@ -472,17 +482,6 @@
                         <div class="quote-curious-text">
                             <p class="q">
                                 ¿Sabías qué? Científicos lograron hacer una botella de vodka en la zona radiactiva de Chernóbil. El profesor Jim Smith mencionó: «Cualquier químico te diría que cuando destilas algo, las impurezas se quedan en el producto que se desecha, así que nosotros usamos granos de centeno ligeramente contaminados y agua del acuífero de Chernóbil... y los destilamos». Este producto fue analizado en el laboratorio radiactivo de la Universidad de Southampton, en el sur de Inglaterra y no pudieron encontrar nada ya que todo estaba bajo su límite de radiación.
-                            </p>
-                        </div>
-                    </div>
-                </article>
-                <!-- Quote Curious-->
-                <article class="quote-curious">
-                    <div class="quote-curious-body">
-                        <div class="quote-curious-text">
-                            <p class="q">
-                                Ante porttitor phasellus ultricies libero inceptos vel vulputate cubilia faucibus, venenatis eget quis velit neque morbi nunc eleifend magna penatibus, dignissim a primis et luctus potenti volutpat sodales. Litora sociis iaculis bibendum velit, gravida
-                                morbi vel, et nec porta. Sodales pellentesque fames est ridiculus egestas justo iaculis imperdiet, sociis facilisi magna nascetur pulvinar aliquet turpis, hac per lobortis porta sagittis etiam montes.
                             </p>
                         </div>
                     </div>
