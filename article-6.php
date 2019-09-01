@@ -145,18 +145,18 @@
                 </div>
                 <div class="col-xs-12 col-md-6">
                     <p class="lead ">
-                        Las nanomáquinas, reconstruirán tejidos óseos. Entrarán y saldrán de las células, al detectar algún cambio o defecto, enviando un mensaje con un diagnóstico y una orden a los nano terapeutas: estos entran a la célula y la vuelven a su estado normal. Sin nanomedicina la NASA tendría muchas dificultades en sus expediciones espaciales. 
+                        Para aprender el uso debido, seguro y correcto de acceder a la «Red Oscura», existen portales como adslzone.net, vix.com, bloglenovo.es y redeszone.net, por mencionar algunos, en donde contienen artículos explicando paso a paso el proceso, también se puede conseguir un documento en formato PDF en el cual detalla como ingresar y de qué manera está compuesta. Estas páginas son caracterizadas por el anonimato que poseen. David Sancho, investigador de amenazas de Trend Micro, señala al diario ABC, que la Deep Web es incontrolable. «Una vez que se efectúa la conexión no es posible que ningún observador sea capaz de interceptarla ni espiarla, esto la convierte en un entorno ideal para realizar actividades criminales, así como para disidentes evitando ser controlados por gobiernos hostiles», lamenta.
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-12 ">
                     <p class="lead ">
-                        Estos robots médicos, son los resultados de una posible cura para todas las patologías mortales.  Este importante hecho, será de gran impacto para sociedad   actual. 
+                        Cabe destacar que esta «Dark Web» conlleva una serie de riesgos incluidos en muchas de sus páginas, ya que como todas ellas tienen un alto nivel de anonimato se hace imposible monitorearlas. Ciertas partes de la misma son, técnicamente, inaccesibles a través de los medios tradicionales, por lo que se convierte en un lugar protegido y seguro para que cibercriminales o particulares de toda índole que ofrecen sus servicios considerados en su mayoría como ilegales en múltiples países.
                     </p>
                     <p class="lead ">
-                        Una importante pregunta, es: ¿Cómo el nano médico será introducido al organismo humano? Por medio de una píldora o capsula que sería consumida de forma oral en el ser humano.
+                        Por otra parte, este mundo virtual se presume que está dividido desde 0 a 7 niveles, que va desde el contenido que se puede encontrar muy fácilmente y sin ningún riesgo, hasta el más riesgoso y difícil de conseguir, en este último nivel se presume que para entrar se debe tener una máquina cuántica, saber programar y un hacking cuántico.
                     </p>
                     <p class="lead ">
-                        Este hecho tecnológico fue inspirado en una película de ficción llamada «Un viaje alucinante». Esta producción cinematográfica tiene como parte de su trama hacer un viaje en submarino dentro del organismo humano en búsqueda de un coágulo de sangre, para así eliminarlo y resguardar la salud del humano.
+                        En resumidas cuentas, el ciberespacio es inmenso y en pleno siglo XXI el acceso a él es fácil, ya que cualquiera puede navegar hasta por sus teléfonos, sólo que se debe hacer un buen uso de esta herramienta tan practica y que puede ayudar de diversas maneras.
                     </p>
                     <h3 class="sources">Fuentes: ABC Redes y Revista Digital</h3>
                 </div>
