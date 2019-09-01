@@ -145,7 +145,7 @@
                 </div>
                 <div class="col-xs-12 col-md-6 ">
                     <h2>
-                        <strong>Título adicional de subzona</strong>
+                        <strong>Todo radica en tus pensamientos</strong>
                     </h2>
                     <p class="lead ">
                         Son muchísimos los beneficios que se obtienen con el optimismo, pero resulta que es
@@ -175,6 +175,18 @@
                         Los pensamientos y sus implicaciones con la felicidad o tristeza lo son todo, el ser está
                         condicionado por lo que abunda en su mente, por lo tanto de la forma en cómo pienses vivirás.
                     </p>
+                </div>
+                <div class="col-xs-12 col-md-6 img-block">
+                    <div id="img-block">
+                        <a href="../../img/articles/7/article-secondary2.jpg">
+                            <img class="img-responsive img-secondary" src="../../img/articles/7/article-secondary2-thumbnail.jpg" alt=" ">
+                        </a>
+                    </div>
+                    <p class="img-text">
+                        <small>Cortesía de New York Times</small>
+                    </p>
+                </div>
+                <div class="col-xs-12 col-md-6 ">
                     <h2>
                         <strong>El mantener una actitud positiva es todo un reto</strong>
                     </h2>
@@ -184,6 +196,8 @@
                         los objetivos que te propongas, por otro lado si actúas de forma negativa perderás antes de iniciar
                         cualquier meta.
                     </p>
+                </div>
+                <div class="col-xs-12 col-md-12">
                     <p class="lead ">
                         Según el blog manifiestalo.com, hay una serie de actividades que te pueden llevar a tener
                         una mejor actitud ante las adversidades, tales como crear un diario de gratitud, dedicarte al
