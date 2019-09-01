@@ -169,7 +169,7 @@
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-12">
-                    <p class="lead ">
+                    <p class="lead">
                         Por otra parte, este mundo virtual se presume que está dividido desde 0 a 7 niveles, que va desde el contenido que se puede encontrar muy fácilmente y sin ningún riesgo, hasta el más riesgoso y difícil de conseguir, en este último nivel se presume que para entrar se debe tener una máquina cuántica, saber programar y un hacking cuántico.
                     </p>
                     <p class="lead ">
