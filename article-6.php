@@ -140,7 +140,7 @@
                         </a>
                     </div>
                     <p class="img-text">
-                        <small>Cortesía de </small>
+                        <small>Cortesía de Yaremí Mendoza</small>
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-6">
@@ -152,9 +152,23 @@
                     <p class="lead">
                         incontrolable. «Una vez que se efectúa la conexión no es posible que ningún observador sea capaz de interceptarla ni espiarla, esto la convierte en un entorno ideal para realizar actividades criminales, así como para disidentes evitando ser controlados por gobiernos hostiles», lamenta.
                     </p>
+                </div>
+                <div class="col-xs-12 col-md-6">
                     <p class="lead ">
                         Cabe destacar que esta «Dark Web» conlleva una serie de riesgos incluidos en muchas de sus páginas, ya que como todas ellas tienen un alto nivel de anonimato se hace imposible monitorearlas. Ciertas partes de la misma son, técnicamente, inaccesibles a través de los medios tradicionales, por lo que se convierte en un lugar protegido y seguro para que cibercriminales o particulares de toda índole que ofrecen sus servicios considerados en su mayoría como ilegales en múltiples países.
                     </p>
+                </div>
+                <div class="col-xs-12 col-md-6 img-block">
+                    <div id="img-block">
+                        <a href="../../img/articles/6/article-secondary.jpg">
+                            <img class="img-responsive img-secondary" src="../../img/articles/6/article-secondary-thumbnail.jpg" alt=" ">
+                        </a>
+                    </div>
+                    <p class="img-text">
+                        <small>Cortesía de El Sol</small>
+                    </p>
+                </div>
+                <div class="col-xs-12 col-md-12">
                     <p class="lead ">
                         Por otra parte, este mundo virtual se presume que está dividido desde 0 a 7 niveles, que va desde el contenido que se puede encontrar muy fácilmente y sin ningún riesgo, hasta el más riesgoso y difícil de conseguir, en este último nivel se presume que para entrar se debe tener una máquina cuántica, saber programar y un hacking cuántico.
                     </p>
