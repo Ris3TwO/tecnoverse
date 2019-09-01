@@ -571,16 +571,16 @@
                         <div class="item text-center writer-name-article">
                             <a href="./articles/solo-se-usa-el-10-del-mundo-digital">
                                 <img src="https://picsum.photos/160/140" class="img-responsive img-article-optional" alt="">
-                                <h4>Sólo se usa el 10% del mundo digital</h4>
+                                <h4>Continuan aumentando los incendios en la Amazonia </h4>
                             </a>
-                            <small>Yaremí Mendoza</small>
+                            <small>Zully Alvarado</small>
                         </div>
                         <div class="item text-center writer-name-article">
                             <a href="./blog-single.html">
                                 <img src="https://picsum.photos/id/237/160/140" class="img-responsive img-article-optional" alt="">
-                                <h4>Título del artículo</h4>
+                                <h4>«Powehi», la maravillosa primera imagen de un agujero negro supermasivo</h4>
                             </a>
-                            <small>Nombre y Apellido</small>
+                            <small>Derian Rojas</small>
                         </div>
                         <div class="item text-center writer-name-article">
                             <a href="./blog-single.html">
