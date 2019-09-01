@@ -149,9 +149,8 @@
             </div>
             <div class="row" style="padding: .75em;">
                 <div class="col-sm-12">
-                    <p style="text-align: justify">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce malesuada erat sit amet dolor aliquet dictum. Integer vitae libero porttitor tortor ultrices elementum. Proin pretium aliquam lectus quis tincidunt. Donec accumsan felis
-                        et tincidunt aliquet. Donec justo orci, laoreet lobortis imperdiet vitae, dapibus eu urna. Cras lacinia tellus massa, a luctus ante tincidunt sit amet. Fusce ut mi nulla. Phasellus eu fringilla lacus. Sed nec metus in augue bibendum
-                        interdum in auctor odio. Suspendisse tempus placerat libero vel gravida.
+                    <p style="text-align: justify">
+                        Somos un grupo de jóvenes periodistas e investigadores en formación, que no descansamos hasta cumplir con nuestra tarea. Compartimos algo en común: una gran pasión profesional por mantener informados día a día, a quienes como nosotros, nos vemos envueltos en el infinito espiral del progreso de las tecnologías.
                     </p>
                 </div>
             </div>
@@ -191,7 +190,7 @@
                                 <div class="details jane">
                                     <h2>Derian Rojas
                                         <br>
-                                        <span class="job-title">UI Designer</span>
+                                        <span class="job-title">Investigador y Periodista en Astrofísica</span>
                                     </h2>
                                 </div>
                             </div>
@@ -234,7 +233,7 @@
                                 <div class="details jane">
                                     <h2>Katherina Perez
                                         <br>
-                                        <span class="job-title">UI Designer</span>
+                                        <span class="job-title">Investigador y Periodista en Psicología</span>
                                     </h2>
                                 </div>
                             </div>
@@ -277,7 +276,7 @@
                                 <div class="details jane">
                                     <h2>Yaremí Mendoza
                                         <br>
-                                        <span class="job-title">UI Designer</span>
+                                        <span class="job-title">Investigador y Periodista en Redes 2.0</span>
                                     </h2>
                                 </div>
                             </div>
@@ -320,7 +319,7 @@
                                 <div class="details jane">
                                     <h2>Jorgelis Chavez
                                         <br>
-                                        <span class="job-title">UI Designer</span>
+                                        <span class="job-title">Investigador y Periodista en Robótica e IA</span>
                                     </h2>
                                 </div>
                             </div>
@@ -363,7 +362,7 @@
                                 <div class="details jane">
                                     <h2>Zully Alvarado
                                         <br>
-                                        <span class="job-title">UI Designer</span>
+                                        <span class="job-title">Investigador y Periodista Ambiental</span>
                                     </h2>
                                 </div>
                             </div>
@@ -406,7 +405,7 @@
                                 <div class="details jane">
                                     <h2>Rebeca Martinez
                                         <br>
-                                        <span class="job-title">UI Designer</span>
+                                        <span class="job-title">Investigador y Periodista en Tecnología</span>
                                     </h2>
                                 </div>
                             </div>
