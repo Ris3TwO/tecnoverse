@@ -130,7 +130,7 @@
                             </a>
                         </div>
                         <p class="img-text">
-                            <small>Cortesía de Noticias Sin</small>
+                            <small>Cortesía de NASA Ames Research Center</small>
                         </p>
                     </div>
                     <p class="lead drop-cap ">
@@ -152,7 +152,7 @@
                         </a>
                     </div>
                     <p class="img-text">
-                        <small>Cortesía de Nanotecnología Medica</small>
+                        <small>Cortesía de Auronews</small>
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-12 ">
