@@ -125,8 +125,8 @@
                     </div>
                     <div class="text-center" style="padding-bottom: 2em;">
                         <div id="gallery">
-                            <a href="../../img/articles/1/article-primary.jpg">
-                                <img class="img-responsive-2 img-primary" src="../../img/articles/1/article-primary-thumbnail.jpg" alt=" ">
+                            <a href="../../img/articles/3/article-primary.jpg">
+                                <img class="img-responsive-2 img-primary" src="../../img/articles/3/article-primary-thumbnail.jpg" alt=" ">
                             </a>
                         </div>
                         <p class="img-text">
@@ -147,8 +147,8 @@
                 </div>
                 <div class="col-xs-12 col-md-6 img-block">
                     <div id="img-block">
-                        <a href="../../img/articles/1/article-secondary.jpg">
-                            <img class="img-responsive img-secondary" src="../../img/articles/1/article-secondary-thumbnail.jpg" alt=" ">
+                        <a href="../../img/articles/3/article-secondary.jpg">
+                            <img class="img-responsive img-secondary" src="../../img/articles/3/article-secondary-thumbnail.jpg" alt=" ">
                         </a>
                     </div>
                     <p class="img-text">
