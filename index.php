@@ -606,7 +606,7 @@
                             </div>
                             <div class="c-text">
                                 <h5>DIRECCIÓN</h5>
-                                <h6>Avenida Cedeño, frente a la Plaza Bolívar, Palacio Municipal. San Juan De Los Morros – Guárico - Venezuela.</h6>
+                                <h6>Avenida Cedeño, Palacio Municipal, VE.</h6>
                             </div>
                         </div>
                     </div>
