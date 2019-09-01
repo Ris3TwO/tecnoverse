@@ -556,7 +556,7 @@
                                         <small>Rebeca Martinez</small>
                                         <p> El tiempo avanza y con él la tecnología, una prueba de ello es el nuevo televisor enrrollable signature OLED TV R. Este impresionante televisor es la última creación de LG en cuanto a televisores...
                                         </p>
-                                        <a href="./blog-single.html" class="btn btn-sm btn-default"><span class="glyphicon glyphicon-new-window"></span> Leer más</a>
+                                        <a href="./articles/lg-muestra-mundo-primer-televisor-enrollable" class="btn btn-sm btn-default"><span class="glyphicon glyphicon-new-window"></span> Leer más</a>
                                     </div>
                                 </div>
                             </div>
