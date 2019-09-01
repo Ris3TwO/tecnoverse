@@ -386,11 +386,11 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="">
+                                        <a href="https://www.instagram.com/rebecajmartinezb07" target="_blank">
                                             <i class="fab fa-instagram"></i>
                                         </a>
                                     </li>
-                                    <li>
+                                    <!-- <li>
                                         <a href="">
                                             <i class="fab fa-twitter"></i>
                                         </a>
@@ -399,7 +399,7 @@
                                         <a href="">
                                             <i class="fab fa-dribbble"></i>
                                         </a>
-                                    </li>
+                                    </li> -->
                                 </ul>
 
                                 <div class="details jane">
