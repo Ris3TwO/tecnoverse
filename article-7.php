@@ -128,41 +128,69 @@
                         </p>
                     </div>
                     <p class="lead drop-cap ">
-                        La NASA desarrolló una nueva tecnología para diagnosticar enfermedades, como el cáncer, antes de que las persona la padezcan. Esta nueva modalidad es diseñada empleando, robots miniatura (nanotecnología). Este emprendimiento científico es impulsado por la directora científica de la NASA, Kathie Olsen, junto a un equipo de especialistas.
+                        En medio de tantas complejidades que embargan al ser
+                        humano es inevitable no tener momentos que le resten a eso
+                        que llamamos vida. Desde el principio de la existencia el ser
+                        ha estado en la búsqueda de algo “felicidad” esa liberación de
+                        endorfina, serotonina, dopamina y oxitocina. Sensación de
+                        bienestar, gozo y satisfacción. Pero ¿cómo hacer cuándo no se
+                        puede controlar lo que sucede y por ende muchas veces
+                        tiende a perderse esa preciada felicidad?
                     </p>
                     <p class="lead ">
-                        Durante mucho tiempo el objetivo de la NASA era enviar al primer hombre a la luna y traerlo sano, sin embargo, el espacio es mortal para el ser humano, y el mismo no podría estar tanto tiempo en el espacio debido a que la gravedad es uno de los factores que el organismo óseo no soporta. Esto gracias a que el astronauta pierde un poco la movilidad y estabilidad de su sistema óseo. También una de las causas de las enfermedades, son las fuertes radiaciones del sol ya que están más expuesto a él.
+                        Hay algo que debe ser comprendido y es que la mayoría de
+                        los hechos no son negativos ni positivos, son solo hechos y la persona decide de qué manera le
+                        afecta, si positiva o negativa.
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-6 ">
+                    <h2>
+                        <strong>Título adicional de subzona</strong>
+                    </h2>
                     <p class="lead ">
-                        Es por ende que se ha venido estudiando el desarrollo de sistemas robóticos miniatura que eviten las enfermedades antes de que ataquen el sistema inmunológico humano, para así poderla eliminar, o descubrir qué la está causando. Esto podría ser posible con los microbots, unas pequeñas maquinas creadas por átomos, que cumplen la función de los glóbulos blancos, los cuales detectan organismos malignos, como un parasito, por ejemplo, para así eliminarlos.
+                        Son muchísimos los beneficios que se obtienen con el optimismo, pero resulta que es
+                        más fácil comprase un jet a sacar todo el contenido dañino de la mente. pues según sydney pinoy-
+                        peyronnet, experto en ‘neurofeedback’ nuestro cerebro procesa unos 60.000 pensamientos al día,
+                        muchos de ellos son absurdos o repetitivos, más del 90 por ciento se repiten y alrededor del 80
+                        por ciento son negativos.
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-6 img-block">
                     <div id="img-block">
-                        <a href="../../img/articles/1/article-secondary-1.jpg">
-                            <img class="img-responsive img-secondary" src="../../img/articles/1/article-secondary-1.jpg" alt=" ">
+                        <a href="../../img/articles/7/article-secondary.jpg">
+                            <img class="img-responsive img-secondary" src="../../img/articles/7/article-secondary-thumbnail.jpg" alt=" ">
                         </a>
                     </div>
                     <p class="img-text">
-                        <small>Cortesía de Nanotecnología Medica</small>
+                        <small>Cortesía de New York Times</small>
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-12 ">
                     <p class="lead ">
-                        Las nanomáquinas, reconstruirán tejidos óseos. Entrarán y saldrán de las células, al detectar algún cambio o defecto, enviando un mensaje con un diagnóstico y una orden a los nano terapeutas: estos entran a la célula y la vuelven a su estado normal. Sin nanomedicina la NASA tendría muchas dificultades en sus expediciones espaciales. 
+                        Según el portal web: exitoysuperacionpersonal.com como individuos somos expertos en
+                        generalizar, minimizar las cosas positivas, dramatizar, tener expectativas poco realistas,
+                        autoculparnos, y hasta en adivinar el futuro con un cotidiano “no va a funcionar”
                     </p>
                     <p class="lead ">
-                        Estos robots médicos, son los resultados de una posible cura para todas las patologías mortales.  Este importante hecho, será de gran impacto para sociedad   actual. 
+                        Los pensamientos y sus implicaciones con la felicidad o tristeza lo son todo, el ser está
+                        condicionado por lo que abunda en su mente, por lo tanto de la forma en cómo pienses vivirás.
+                    </p>
+                    <h2>
+                        <strong>El mantener una actitud positiva es todo un reto</strong>
+                    </h2>
+                    <p class="lead ">
+                        Los problemas son una parte inevitable de la vida y aprender a manejar el estrés y tratar
+                        de responder con una actitud positiva a cada desafío, te llevará a ser capaz de lograr cada uno de
+                        los objetivos que te propongas, por otro lado si actúas de forma negativa perderás antes de iniciar
+                        cualquier meta.
                     </p>
                     <p class="lead ">
-                        Una importante pregunta, es: ¿Cómo el nano médico será introducido al organismo humano? Por medio de una píldora o capsula que sería consumida de forma oral en el ser humano.
+                        Según el blog manifiestalo.com, hay una serie de actividades que te pueden llevar a tener
+                        una mejor actitud ante las adversidades, tales como crear un diario de gratitud, dedicarte al
+                        menos 30 minutos al día, sonreír más, meditar, descansar, crear y repetir afirmaciones positivas y
+                        la más importante de todas éstas: disfrutar cada momento, dando un valor especial a cada día.
                     </p>
-                    <p class="lead ">
-                        Este hecho tecnológico fue inspirado en una película de ficción llamada «Un viaje alucinante». Esta producción cinematográfica tiene como parte de su trama hacer un viaje en submarino dentro del organismo humano en búsqueda de un coágulo de sangre, para así eliminarlo y resguardar la salud del humano.
-                    </p>
-                    <h3 class="sources">Fuentes: OMPI y ScienceAlert</h3>
+                    <h3 class="sources">Fuentes: Psicorumbo, ResearchGate y La Vanguardia</h3>
                 </div>
             </div>
         </div>
