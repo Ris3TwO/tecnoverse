@@ -577,14 +577,14 @@
                         </div>
                         <div class="item text-center writer-name-article">
                             <a href="./articles/powehi-maravillosa-primera-imagen-de-agujero-negro-supermasivo">
-                                <img src="https://picsum.photos/id/237/160/140" class="img-responsive img-article-optional" alt="">
+                                <img src="./img/articles/5/article-index.jpg" class="img-responsive img-article-optional" alt="">
                                 <h4>«Powehi», la maravillosa primera imagen de un agujero negro supermasivo</h4>
                             </a>
                             <small>Derian Rojas</small>
                         </div>
                         <div class="item text-center writer-name-article">
                             <a href="./articles/solo-se-usa-10-del-mundo-digital">
-                                <img src="https://picsum.photos/160/140?grayscale" class="img-responsive img-article-optional" alt="">
+                                <img src="./img/articles/6/article-index.jpg" class="img-responsive img-article-optional" alt="">
                                 <h4>Solo se usa el 10% del mundo digital</h4>
                             </a>
                             <small>Yaremí Mendoza</small>
