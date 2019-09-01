@@ -595,7 +595,7 @@
                             </div>
                             <div class="c-text">
                                 <h5>TELÉFONO</h5>
-                                <h6>+58-246-555-0138</h6>
+                                <h6>+58-246-431-0138</h6>
                             </div>
                         </div>
                     </div>
@@ -606,7 +606,7 @@
                             </div>
                             <div class="c-text">
                                 <h5>DIRECCIÓN</h5>
-                                <h6>4373, El Centro, CA.</h6>
+                                <h6>Avenida Cedeño, frente a la Plaza Bolívar, Palacio Municipal. San Juan De Los Morros – Guárico - Venezuela.</h6>
                             </div>
                         </div>
                     </div>
@@ -617,7 +617,7 @@
                             </div>
                             <div class="c-text">
                                 <h5>CORREO</h5>
-                                <h6>tecnoverse@tecnoverse.tk</h6>
+                                <h6>info@tecnoverse.tk</h6>
                             </div>
                         </div>
                     </div>
