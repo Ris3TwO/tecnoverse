@@ -131,7 +131,7 @@
                         En medio de tantas complejidades que embargan al ser
                         humano es inevitable no tener momentos que le resten a eso
                         que llamamos vida. Desde el principio de la existencia el ser
-                        ha estado en la búsqueda de algo denominado “felicidad”, que es la liberación de
+                        ha estado en la búsqueda de algo denominado «felicidad», que es la liberación de
                         endorfina, serotonina, dopamina y oxitocina en el cuerpo. Sensación de
                         bienestar, gozo y satisfacción. Pero ¿cómo hacer cuándo no se
                         puede controlar lo que sucede y por ende muchas veces
@@ -150,7 +150,7 @@
                     <p class="lead ">
                         Son muchísimos los beneficios que se obtienen con el optimismo, pero resulta que es
                         más fácil comprase un jet a sacar todo el contenido dañino de la mente. Pues según Sydney 
-                        Pinoy-Peyronnet, experto en “neurofeedback” nuestro cerebro procesa unos 60.000 pensamientos al día,
+                        Pinoy-Peyronnet, experto en «neurofeedback» nuestro cerebro procesa unos 60.000 pensamientos al día,
                         muchos de ellos son absurdos o repetitivos, más del 90 por ciento se repiten y alrededor del 80
                         por ciento son negativos.
                     </p>
