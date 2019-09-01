@@ -534,7 +534,7 @@
                                     </div>
                                     <div class="card-right">
                                         <small>Jorgelis Chávez</small>
-                                        <p>La NASA descubre, una  estrella  de  secuencia principal que cuenta con el mayor sistema planetario observado desde la Vía Láctea. Parecido al sistema solar, este cuento con 8 planetas a su entorno espacial. 
+                                        <p>La NASA descubre, una  estrella  de  secuencia principal que cuenta con el mayor sistema planetario observado desde la Vía Láctea. Parecido al sistema solar, este cuento con 8 planetas a su entorno...
                                         </p>
                                         <a href="./blog-single.html" class="btn btn-sm btn-default"><span class="glyphicon glyphicon-new-window"></span> Leer más</a>
                                     </div>
@@ -546,15 +546,15 @@
                         <div class="row">
                             <div class="card card-default">
                                 <div class="card-header">
-                                    <h2>Título del artículo</h2>
+                                    <h2>LG le muestra al mundo el primer televisor enrollable</h2>
                                 </div>
                                 <div class="card-body card-5-7">
                                     <div class="card-left">
                                         <img src="https://picsum.photos/320/300" class="img-responsive img-article-secondary">
                                     </div>
                                     <div class="card-right">
-                                        <small>Nombre y Apellido</small>
-                                        <p>A stitch in time saves nine. All good things come to those who wait. Too many cooks spoil the broth.
+                                        <small>Rebeca Martinez</small>
+                                        <p> El tiempo avanza y con él la tecnología, una prueba de ello es el nuevo televisor enrrollable signature OLED TV R. Este impresionante televisor es la última creación de LG en cuanto a televisores...
                                         </p>
                                         <a href="./blog-single.html" class="btn btn-sm btn-default"><span class="glyphicon glyphicon-new-window"></span> Leer más</a>
                                     </div>
