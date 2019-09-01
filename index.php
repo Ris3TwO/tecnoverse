@@ -224,7 +224,7 @@
                                         </a>
                                     </li>
                                     <li>
-                                        <a href="">
+                                        <a href="https://www.pinterest.es/katejulieta/" target="_blank">
                                             <i class="fab fa-pinterest"></i>
                                         </a>
                                     </li>
@@ -581,9 +581,9 @@
                             <small>Yaremí Mendoza</small>
                         </div>
                         <div class="item text-center writer-name-article">
-                            <a href="#0">
-                                <img src="https://picsum.photos/id/981/160/140?blur=2" class="img-responsive img-article-optional" alt="">
-                                <h4>Título del artículo</h4>
+                            <a href="./articles/en-positivo">
+                                <img src="./img/articles/7/article-index.jpg" class="img-responsive img-article-optional" alt="">
+                                <h4>En positivo</h4>
                             </a>
                             <small>Katherine Pérez</small>
                         </div>

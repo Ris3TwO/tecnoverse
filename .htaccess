@@ -16,3 +16,4 @@ RewriteRule ^articles/lg-muestra-mundo-primer-televisor-enrollable(|/)$ ./articl
 RewriteRule ^articles/continuan-aumentando-los-incendios-amazonia(|/)$ ./article-4.php
 RewriteRule ^articles/powehi-maravillosa-primera-imagen-de-agujero-negro-supermasivo(|/)$ ./article-5.php
 RewriteRule ^articles/solo-se-usa-10-del-mundo-digital(|/)$ ./article-6.php
+RewriteRule ^articles/en-positivo(|/)$ ./article-7.php

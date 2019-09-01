@@ -93,17 +93,11 @@
     <!-- END MAIN NAVIGATION BAR -->
 
     <!-- HEADER -->
-    <section class="blog-page-1 blog-page parallax one-page-section">
+    <section class="blog-page-7 blog-page parallax one-page-section">
         <div class="page-table">
             <div class="table-cell text-center">
-                <h3>¿Los médicos del futuro, serán robots?</h3>
-                <h1>Tecnología curativa, «microbots médicos»</h1>
-
-                <div class="col-md-8 col-md-offset-2">
-                    <p class="summary">
-                        La nanotecnología, que tiene el poder de diagnosticar enfermedades antes de que las personas las padezca
-                    </p>
-                </div>
+                <h3>Eres lo que piensas</h3>
+                <h1>En positivo</h1>
                 <a href="#blog" class="scroll home-s-btn hor-center"><span class="dot center"></span></a>
             </div>
         </div>
@@ -117,20 +111,20 @@
                 <div class="col-xs-12 col-md-12">
                     <div class="col-md-12 col-md-offset-1">
                         <h4 class="writer-name">
-                            Jorgelis Chávez
+                            Katherine Pérez
                             <span class="time-publish">
-                                31 AGO 2019 - 17:10 CEST
+                                01 SEPT 2019 - 14:52 CEST
                             </span>
                         </h4>
                     </div>
                     <div class="text-center" style="padding-bottom: 2em;">
                         <div id="gallery">
-                            <a href="../../img/articles/1/article-primary.jpg">
-                                <img class="img-responsive-2 img-primary" src="../../img/articles/1/article-primary-thumbnail.jpg" alt=" ">
+                            <a href="../../img/articles/7/article-primary.jpg">
+                                <img class="img-responsive-2 img-primary" src="../../img/articles/7/article-primary-thumbnail.jpg" alt=" ">
                             </a>
                         </div>
                         <p class="img-text">
-                            <small>Cortesía de Noticias Sin</small>
+                            <small>Cortesía de Lifeder</small>
                         </p>
                     </div>
                     <p class="lead drop-cap ">
