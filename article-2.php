@@ -155,11 +155,14 @@
                 </div>
                 <div class="col-xs-12 col-md-6 ">
                     <p class="lead ">
-                        El sistema solar de Kepler-90i fue designado como KOI-351. Kepler-90i también destaca por la configuración de su sistema planetario, que tiene similitudes con sistemas solares con planetas rocosos en el centro, y gaseosos en el exterior. Los seis planetas interiores son supertierras o pequeños Neptunos debido a su tamaño. Los dos planetas exteriores son gigantes gaseosos, y su distancia es de aproximadamente 2500 años luz de nuestro sol, y es un 30% más grande que la Tierra, y está tan cerca a su estrella madre que la temperatura promedio de la superficie excede los 426° Celsius, similar a Mercurio.
+                        El sistema solar de Kepler-90i fue designado como KOI-351. Kepler-90i también destaca por la configuración de su sistema planetario, que tiene similitudes con sistemas solares con planetas rocosos en el centro, y gaseosos en el exterior. Los seis planetas interiores son supertierras o pequeños Neptunos debido a su tamaño. Los dos planetas exteriores son gigantes gaseosos, y su distancia es de aproximadamente 2500 años luz de nuestro sol, y es un
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-12 ">
-                    <p class="lead ">
+                    <p class="l">
+                    30% más grande que la Tierra, y está tan cerca a su estrella madre que la temperatura promedio de la superficie excede los 426° Celsius, similar a Mercurio.
+                    </p>
+                    <p class="lead">
                         Durante las observaciones con el telescopio espacial, en el período 2008-2013 se proporcionó evidencia de la existencia de exoplanetas usando el método de tránsito, método que muestra el tamaño de un planeta, pero no su masa. Los planetas se nombran en función de su distancia a la estrella. Kepler-90b es el más cercano al interior, siendo Kepler-90h el más exterior de los ocho planetas conocidos.
                     </p>
                     <p class="lead ">
