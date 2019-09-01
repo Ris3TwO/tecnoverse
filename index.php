@@ -290,7 +290,7 @@
                             <div class="card profile-two">
 
                                 <div class="card-image profile-img--two">
-                                    <img src="https://image.ibb.co/c9rY6J/profile02.jpg" alt="profile two">
+                                    <img src="./img/team/jorgelis-chavez.jpg" alt="profile two">
                                 </div>
 
                                 <ul class="social-icons">
@@ -333,7 +333,7 @@
                             <div class="card profile-two">
 
                                 <div class="card-image profile-img--two">
-                                    <img src="https://image.ibb.co/c9rY6J/profile02.jpg" alt="profile two">
+                                    <img src="./img/team/zully-alvarado.jpg" alt="profile two">
                                 </div>
 
                                 <ul class="social-icons">
@@ -376,7 +376,7 @@
                             <div class="card profile-two">
 
                                 <div class="card-image profile-img--two">
-                                    <img src="https://image.ibb.co/c9rY6J/profile02.jpg" alt="profile two">
+                                    <img src="./img/team/rebeca-martinez.jpg" alt="profile two">
                                 </div>
 
                                 <ul class="social-icons">
