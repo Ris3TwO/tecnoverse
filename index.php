@@ -570,8 +570,8 @@
                     <div class="owl-articles owl-carousel">
                         <div class="item text-center writer-name-article">
                             <a href="./articles/solo-se-usa-el-10-del-mundo-digital">
-                                <img src="https://picsum.photos/160/140" class="img-responsive img-article-optional" alt="">
-                                <h4>Continuan aumentando los incendios en la Amazonia </h4>
+                                <img src="./img/articles/4/article-index.jpg" class="img-responsive img-article-optional" alt="">
+                                <h4>Continuan aumentando los incendios en la Amazonia</h4>
                             </a>
                             <small>Zully Alvarado</small>
                         </div>
