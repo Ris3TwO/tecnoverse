@@ -171,10 +171,13 @@
                 </div>
                 <div class="col-xs-12 col-md-6 ">
                     <p class="lead">
-                        supermasivo, era hora de procesarla. La cantidad de información que representó esta imagen, se estima que fue de aproximadamente 5000 terabytes, imposible de enviar por fibra óptica, por lo que tuvieron que almacernarla en seis metros cúbicos de discos duros y ser enviadas por avion en pleno invierno polar lo cual retraso en meses su llegada. Katie Bouman, miembro de los 200 integrantes que conformaron el proyecto, fue una pieza clave para poder revelar la imagen. Al ser tanta la información almacenada, esta joven científica de 30 años, configuró un algoritmo especial para poder hacer el trabajo pesado, un poco más fácil. Este proceso duró 2 semanas.
+                        supermasivo, era hora de procesarla. La cantidad de información que representó esta imagen, se estima que fue de aproximadamente 5000 terabytes, imposible de enviar por fibra óptica, por lo que tuvieron que almacernarla en seis metros cúbicos de discos duros y ser enviadas por avion en pleno invierno polar lo cual retraso en meses su llegada. Katie Bouman, miembro de los 200 integrantes que conformaron el proyecto, fue una pieza clave para poder revelar la imagen. Al ser 
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-12">
+                    <p class="lead">
+                    tanta la información almacenada, esta joven científica de 30 años, configuró un algoritmo especial para poder hacer el trabajo pesado, un poco más fácil. Este proceso duró 2 semanas.
+                    </p>
                     <p class="lead ">
                         El resultado final, fue la imagen que le dio la vuelta al mundo el 10 de abril del presente año, siendo considerada por muchos, como la fotografía del año.
                     </p>
