@@ -8,7 +8,7 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <!-- SITE TITLE -->
-    <title>Tecnología curativa, «microbots médicos» | Tecnoverse</title>
+    <title>Kepler-90i: El sorprendente sistema estelar descubierto por una IA | Tecnoverse</title>
     <meta name="description" content="Tecnoverse magazine">
 
     <!-- Bootstrap CSS -->
@@ -96,12 +96,12 @@
     <section class="blog-page-1 blog-page parallax one-page-section">
         <div class="page-table">
             <div class="table-cell text-center">
-                <h3>¿Los médicos del futuro, serán robots?</h3>
-                <h1>Tecnología curativa, «microbots médicos»</h1>
+                <h3>¿Una estrella o un sol?</h3>
+                <h1>Kepler-90i: El sorprendente sistema estelar descubierto por una IA</h1>
 
                 <div class="col-md-8 col-md-offset-2">
                     <p class="summary">
-                        La nanotecnología, que tiene el poder de diagnosticar enfermedades antes de que las personas las padezca
+                        La nasa descubre un nuevo sistema espacial muy parecido al sistema solar de la tierra. Este hallazgo fue posible con la ayuda de Google, y una IA de aprendizaje automatizado. 
                     </p>
                 </div>
                 <a href="#blog" class="scroll home-s-btn hor-center"><span class="dot center"></span></a>
@@ -119,14 +119,14 @@
                         <h4 class="writer-name">
                             Jorgelis Chávez
                             <span class="time-publish">
-                                31 AGO 2019 - 17:10 CEST
+                                31 AGO 2019 - 21:21 CEST
                             </span>
                         </h4>
                     </div>
                     <div class="text-center" style="padding-bottom: 2em;">
                         <div id="gallery">
-                            <a href="../../img/articles/1/article-primary.jpg">
-                                <img class="img-responsive-2 img-primary" src="../../img/articles/1/article-primary-thumbnail.jpg" alt=" ">
+                            <a href="../../img/articles/2/article-primary.jpg">
+                                <img class="img-responsive-2 img-primary" src="../../img/articles/2/article-primary-thumbnail.jpg" alt=" ">
                             </a>
                         </div>
                         <p class="img-text">
@@ -134,21 +134,21 @@
                         </p>
                     </div>
                     <p class="lead drop-cap ">
-                        La NASA desarrolló una nueva tecnología para diagnosticar enfermedades, como el cáncer, antes de que las persona la padezcan. Esta nueva modalidad es diseñada empleando, robots miniatura (nanotecnología). Este emprendimiento científico es impulsado por la directora científica de la NASA, Kathie Olsen, junto a un equipo de especialistas.
+                        La NASA descubre, una  estrella  de  secuencia principal que cuenta con el mayor sistema planetario observado desde la Vía Láctea. Parecido al sistema solar, este cuento con 8 planetas a su entorno espacial. La misma fue nombrada, Kepler-90i. Este reciente hallazgo fue realizado con los aportes de Google, y el uso de una inteligencia artificial llamada «aprendizaje de máquina». El hecho científico fue anunciado el 14 de diciembre del 2017, por la National Aeronautics and Space Administration (NASA). 
                     </p>
                     <p class="lead ">
-                        Durante mucho tiempo el objetivo de la NASA era enviar al primer hombre a la luna y traerlo sano, sin embargo, el espacio es mortal para el ser humano, y el mismo no podría estar tanto tiempo en el espacio debido a que la gravedad es uno de los factores que el organismo óseo no soporta. Esto gracias a que el astronauta pierde un poco la movilidad y estabilidad de su sistema óseo. También una de las causas de las enfermedades, son las fuertes radiaciones del sol ya que están más expuesto a él.
+                        La inteligencia artificial usada para este hallazgo es denominada como «aprendizaje automático» o «de máquina», y su objetivo es desarrollar técnicas que permiten que la computadora aprenda.
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-6 ">
                     <p class="lead ">
-                        Es por ende que se ha venido estudiando el desarrollo de sistemas robóticos miniatura que eviten las enfermedades antes de que ataquen el sistema inmunológico humano, para así poderla eliminar, o descubrir qué la está causando. Esto podría ser posible con los microbots, unas pequeñas maquinas creadas por átomos, que cumplen la función de los glóbulos blancos, los cuales detectan organismos malignos, como un parasito, por ejemplo, para así eliminarlos.
+                        El aprendizaje automático es un tipo de inteligencia artificial que proporciona a las computadoras la capacidad de aprender, sin ser programadas explícitamente. El aprendizaje automático se centra en el desarrollo de programas informáticos que puedan cambiar cuando se exponen a nuevos datos.
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-6 img-block">
                     <div id="img-block">
-                        <a href="../../img/articles/1/article-secondary-1.jpg">
-                            <img class="img-responsive img-secondary" src="../../img/articles/1/article-secondary-1.jpg" alt=" ">
+                        <a href="../../img/articles/2/article-secondary.jpg">
+                            <img class="img-responsive img-secondary" src="../../img/articles/2/article-secondary-thumbnail.jpg" alt=" ">
                         </a>
                     </div>
                     <p class="img-text">
@@ -157,18 +157,15 @@
                 </div>
                 <div class="col-xs-12 col-md-12 ">
                     <p class="lead ">
-                        Las nanomáquinas, reconstruirán tejidos óseos. Entrarán y saldrán de las células, al detectar algún cambio o defecto, enviando un mensaje con un diagnóstico y una orden a los nano terapeutas: estos entran a la célula y la vuelven a su estado normal. Sin nanomedicina la NASA tendría muchas dificultades en sus expediciones espaciales. 
+                        El sistema solar de Kepler-90i fue designado como KOI-351. Kepler-90i también destaca por la configuración de su sistema planetario, que tiene similitudes con sistemas solares con planetas rocosos en el centro, y gaseosos en el exterior. Los seis planetas interiores son supertierras o pequeños Neptunos debido a su tamaño. Los dos planetas exteriores son gigantes gaseosos, y su distancia es de aproximadamente 2500 años luz de nuestro sol, y es un 30% más grande que la Tierra, y está tan cerca a su estrella madre que la temperatura promedio de la superficie excede los 426° Celsius, similar a Mercurio.
                     </p>
                     <p class="lead ">
-                        Estos robots médicos, son los resultados de una posible cura para todas las patologías mortales.  Este importante hecho, será de gran impacto para sociedad   actual. 
+                    Durante las observaciones con el telescopio espacial, en el período 2008-2013 se proporcionó evidencia de la existencia de exoplanetas usando el método de tránsito, método que muestra el tamaño de un planeta, pero no su masa. Los planetas se nombran en función de su distancia a la estrella. Kepler-90b es el más cercano al interior, siendo Kepler-90h el más exterior de los ocho planetas conocidos.
                     </p>
                     <p class="lead ">
-                        Una importante pregunta, es: ¿Cómo el nano médico será introducido al organismo humano? Por medio de una píldora o capsula que sería consumida de forma oral en el ser humano.
+                        A lo largo del proceso de investigación, distintos expertos dieron su aporte, tal es el caso del director de la División de Astrofísica de la NASA, Paul Hertn, quien expresó su satisfacción con los resultados del desarrollo de la investigación, el cual acotó lo siguiente: «Justo como lo esperábamos, hay emocionantes descubrimientos que se encuentra archivados en los datos Kepler… Convierte a Kepler-90i en la estrella que alberga tantos planetas como el nuestro», así lo indicó el ingeniero de software de Google, Christopher Shallve.
                     </p>
-                    <p class="lead ">
-                        Este hecho tecnológico fue inspirado en una película de ficción llamada «Un viaje alucinante». Esta producción cinematográfica tiene como parte de su trama hacer un viaje en submarino dentro del organismo humano en búsqueda de un coágulo de sangre, para así eliminarlo y resguardar la salud del humano.
-                    </p>
-                    <h3 class="sources">Fuentes: OMPI y ScienceAlert</h3>
+                    <h3 class="sources">Fuentes: BBC, ScienceAlert, Sophimania</h3>
                 </div>
             </div>
         </div>

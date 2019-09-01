@@ -536,7 +536,7 @@
                                         <small>Jorgelis Chávez</small>
                                         <p>La NASA descubre, una  estrella  de  secuencia principal que cuenta con el mayor sistema planetario observado desde la Vía Láctea. Parecido al sistema solar, este cuento con 8 planetas a su entorno...
                                         </p>
-                                        <a href="./blog-single.html" class="btn btn-sm btn-default"><span class="glyphicon glyphicon-new-window"></span> Leer más</a>
+                                        <a href="./articles/kepler-90i-sorprendente-sistema-estelar-descubierto-por-una-ia" class="btn btn-sm btn-default"><span class="glyphicon glyphicon-new-window"></span> Leer más</a>
                                     </div>
                                 </div>
                             </div>
