@@ -585,7 +585,7 @@
                         <div class="item text-center writer-name-article">
                             <a href="./articles/solo-se-usa-10-del-mundo-digital">
                                 <img src="https://picsum.photos/160/140?grayscale" class="img-responsive img-article-optional" alt="">
-                                <h4>Sólo se usa el 10% del mundo digital</h4>
+                                <h4>Solo se usa el 10% del mundo digital</h4>
                             </a>
                             <small>Yaremí Mendoza</small>
                         </div>

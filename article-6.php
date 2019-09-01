@@ -8,7 +8,7 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <!-- SITE TITLE -->
-    <title>Sólo se usa el 10% del mundo digital | Tecnoverse</title>
+    <title>Solo se usa el 10% del mundo digital | Tecnoverse</title>
     <meta name="description" content="Tecnoverse magazine">
 
     <!-- Bootstrap CSS -->
@@ -96,7 +96,7 @@
     <section class="blog-page-6 blog-page parallax one-page-section">
         <div class="page-table">
             <div class="table-cell text-center">
-                <h1>Sólo se usa el 10% del mundo digital</h1>
+                <h1>Solo se usa el 10% del mundo digital</h1>
                 <a href="#blog" class="scroll home-s-btn hor-center"><span class="dot center"></span></a>
             </div>
         </div>
