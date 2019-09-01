@@ -510,9 +510,9 @@
                     <div class="card card-default">
                         <div class="card-body">
                             <div class="card-left">
-                                <img src="https://picsum.photos/620/420" class="img-responsive img-article-primary">
+                                <img src="./img/articles/nasa.png" class="img-responsive img-article-primary">
                                 <p class="img-text">
-                                    <small>Mensaje debajo de la imagen</small>
+                                    <small>Cortesía de Euronews</small>
                                 </p>
                                 <h2>Tecnología curativa, «microbots médicos»</h2>
                                 <p>
@@ -575,28 +575,28 @@
                     <div class="owl-articles owl-carousel">
                         <div class="item text-center writer-name-article">
                             <a href="./articles/solo-se-usa-el-10-del-mundo-digital">
-                                <img src="https://picsum.photos/160/140" class="img-responsive" alt="">
+                                <img src="https://picsum.photos/160/140" class="img-responsive img-article-optional" alt="">
                                 <h4>Sólo se usa el 10% del mundo digital</h4>
                             </a>
                             <small>Yaremí Mendoza</small>
                         </div>
                         <div class="item text-center writer-name-article">
                             <a href="./blog-single.html">
-                                <img src="https://picsum.photos/id/237/160/140" class="img-responsive" alt="">
+                                <img src="https://picsum.photos/id/237/160/140" class="img-responsive img-article-optional" alt="">
                                 <h4>Título del artículo</h4>
                             </a>
                             <small>Nombre y Apellido</small>
                         </div>
                         <div class="item text-center writer-name-article">
                             <a href="./blog-single.html">
-                                <img src="https://picsum.photos/160/140?grayscale" class="img-responsive" alt="">
+                                <img src="https://picsum.photos/160/140?grayscale" class="img-responsive img-article-optional" alt="">
                                 <h4>Título del artículo</h4>
                             </a>
                             <small>Nombre y Apellido</small>
                         </div>
                         <div class="item text-center writer-name-article">
                             <a href="./blog-single.html">
-                                <img src="https://picsum.photos/id/981/160/140?blur=2" class="img-responsive" alt="">
+                                <img src="https://picsum.photos/id/981/160/140?blur=2" class="img-responsive img-article-optional" alt="">
                                 <h4>Título del artículo</h4>
                             </a>
                             <small>Nombre y Apellido</small>

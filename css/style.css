@@ -141,6 +141,11 @@ img {
     height: auto;
 }
 
+.img-article-optional {
+    width: 320px;
+    height: auto;
+}
+
 .img-responsive {
     display: block;
     margin: auto;

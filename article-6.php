@@ -93,7 +93,7 @@
     <!-- END MAIN NAVIGATION BAR -->
 
     <!-- HEADER -->
-    <section class="blog-page-4 blog-page parallax one-page-section">
+    <section class="blog-page parallax one-page-section">
         <div class="page-table">
             <div class="table-cell text-center">
                 <h1>Sólo se usa el 10% del mundo digital</h1>
