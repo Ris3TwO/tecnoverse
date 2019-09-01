@@ -466,9 +466,9 @@
                     <div class="quote-curious-body">
                         <div class="quote-curious-text">
                             <p class="q">
-                                ¿Sabías qué? Lo que hasta ahora se consideraba como &quot;ADN basura&quot; es, en realidad, un
+                                ¿Sabías qué? Lo que hasta ahora se consideraba como «ADN basura» es, en realidad, un
                                 componente útil e importante en el genoma humano, que funciona como un gran panel de control
-                                con millones de &quot;interruptores&quot; que regulan la actividad de nuestros genes.
+                                con millones de «interruptores» que regulan la actividad de nuestros genes.
                                 Desde que James Watson y Francis Crick, descubrieran en la década de 1950 la famosa estructura
                                 de doble hélice, el modelo del ADN que conocemos y manejamos en la actualidad, los científicos
                                 han estado debatiendo qué grado del genoma es responsable de hacer que seamos tal y como
