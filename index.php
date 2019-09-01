@@ -204,7 +204,7 @@
                             <div class="card profile-two">
 
                                 <div class="card-image profile-img--two">
-                                    <img src="./img/team/katherine-perez" alt="Katherine Pérez">
+                                    <img src="./img/team/katherine-perez.jpg" alt="Katherine Pérez">
                                 </div>
 
                                 <ul class="social-icons">
