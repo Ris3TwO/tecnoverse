@@ -8,7 +8,7 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <!-- SITE TITLE -->
-    <title>Sólo se usa el 10% del mundo digital | Tecnoverse</title>
+    <title>Tecnología curativa, «microbots médicos» | Tecnoverse</title>
     <meta name="description" content="Tecnoverse magazine">
 
     <!-- Bootstrap CSS -->
@@ -93,10 +93,17 @@
     <!-- END MAIN NAVIGATION BAR -->
 
     <!-- HEADER -->
-    <section class="blog-page parallax one-page-section">
+    <section class="blog-page-1 blog-page parallax one-page-section">
         <div class="page-table">
             <div class="table-cell text-center">
-                <h1>Sólo se usa el 10% del mundo digital</h1>
+                <h3>¿Los médicos del futuro, serán robots?</h3>
+                <h1>Tecnología curativa, «microbots médicos»</h1>
+
+                <div class="col-md-8 col-md-offset-2">
+                    <p class="summary">
+                        La nanotecnología, que tiene el poder de diagnosticar enfermedades antes de que las personas las padezca
+                    </p>
+                </div>
                 <a href="#blog" class="scroll home-s-btn hor-center"><span class="dot center"></span></a>
             </div>
         </div>
@@ -110,69 +117,58 @@
                 <div class="col-xs-12 col-md-12">
                     <div class="col-md-12 col-md-offset-1">
                         <h4 class="writer-name">
-                            Yaremí Mendoza
+                            Jorgelis Chávez
                             <span class="time-publish">
-                                30 AGO 2019 - 21:23 CEST
+                                31 AGO 2019 - 17:10 CEST
                             </span>
                         </h4>
                     </div>
                     <div class="text-center" style="padding-bottom: 2em;">
                         <div id="gallery">
-                            <a href="https://picsum.photos/id/1021/1020/400">
-                                <img class="img-responsive-2" src="https://picsum.photos/id/1021/1020/400" alt=" ">
+                            <a href="../../img/articles/1/article-primary.jpg">
+                                <img class="img-responsive-2 img-primary" src="../../img/articles/1/article-primary-thumbnail.jpg" alt=" ">
                             </a>
                         </div>
                         <p class="img-text">
-                            <small>Mensaje debajo de la imagen</small>
+                            <small>Cortesía de Noticias Sin</small>
                         </p>
                     </div>
                     <p class="lead drop-cap ">
-                        Non ratione vel. Non consequatur hic et labore et quia doloribus. Dolorum rerum dignissimos inventore id corporis rerum. At nesciunt ut error est soluta qui quibusdam blanditiis animi. Ad saepe quia at numquam temporibus quisquam ipsa. Ab omnis aut ratione
-                        ipsam voluptates quia. Veniam temporibus et. Aperiam sint veniam libero perferendis a. Quisquam optio quidem et.
+                        La NASA desarrolló una nueva tecnología para diagnosticar enfermedades, como el cáncer, antes de que las persona la padezcan. Esta nueva modalidad es diseñada empleando, robots miniatura (nanotecnología). Este emprendimiento científico es impulsado por la directora científica de la NASA, Kathie Olsen, junto a un equipo de especialistas.
                     </p>
                     <p class="lead ">
-                        Non ratione vel. Non consequatur hic et labore et quia doloribus. Dolorum rerum dignissimos inventore id corporis rerum. At nesciunt ut error est soluta qui quibusdam blanditiis animi. Ad saepe quia at numquam temporibus quisquam ipsa. Ab omnis aut ratione
-                        ipsam voluptates quia. Veniam temporibus et. Aperiam sint veniam libero perferendis a. Quisquam optio quidem et.
+                        Durante mucho tiempo el objetivo de la NASA era enviar al primer hombre a la luna y traerlo sano, sin embargo, el espacio es mortal para el ser humano, y el mismo no podría estar tanto tiempo en el espacio debido a que la gravedad es uno de los factores que el organismo óseo no soporta. Esto gracias a que el astronauta pierde un poco la movilidad y estabilidad de su sistema óseo. También una de las causas de las enfermedades, son las fuertes radiaciones del sol ya que están más expuesto a él.
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-6 ">
                     <p class="lead ">
-                        Non ratione vel. Non consequatur hic et labore et quia doloribus. Dolorum rerum dignissimos inventore id corporis rerum. At nesciunt ut error est soluta qui quibusdam blanditiis animi. Ad saepe quia at numquam temporibus quisquam ipsa. Ab omnis aut ratione
-                        ipsam voluptates quia. Veniam temporibus et. Aperiam sint veniam libero perferendis a. Quisquam optio quidem et. Non ratione vel. Non consequatur hic et labore et quia doloribus. Dolorum rerum dignissimos inventore id corporis
-                        rerum. At nesciunt ut error est soluta qui quibusdam blanditiis animi. Non ratione vel. Non consequatur hic et labore et quia doloribus
+                        Es por ende que se ha venido estudiando el desarrollo de sistemas robóticos miniatura que eviten las enfermedades antes de que ataquen el sistema inmunológico humano, para así poderla eliminar, o descubrir qué la está causando. Esto podría ser posible con los microbots, unas pequeñas maquinas creadas por átomos, que cumplen la función de los glóbulos blancos, los cuales detectan organismos malignos, como un parasito, por ejemplo, para así eliminarlos.
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-6 img-block">
                     <div id="img-block">
-                        <a href="https://picsum.photos/id/1031/400/300">
-                            <img class="img-responsive " src="https://picsum.photos/id/1031/400/300" alt=" ">
+                        <a href="../../img/articles/1/article-secondary-1.jpg">
+                            <img class="img-responsive img-secondary" src="../../img/articles/1/article-secondary-1.jpg" alt=" ">
                         </a>
                     </div>
                     <p class="img-text">
-                        <small>Mensaje debajo de la imagen</small>
+                        <small>Cortesía de Nanotecnología Medica</small>
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-12 ">
-                    <h2>
-                        <strong>Título adicional de subzona</strong>
-                    </h2>
                     <p class="lead ">
-                        Non ratione vel. Non consequatur hic et labore et quia doloribus. Dolorum rerum dignissimos inventore id corporis rerum. At nesciunt ut error est soluta qui quibusdam blanditiis animi. Ad saepe quia at numquam temporibus quisquam ipsa. Ab omnis aut ratione
-                        ipsam voluptates quia. Veniam temporibus et. Aperiam sint veniam libero perferendis a. Quisquam optio quidem et.
+                        Las nanomáquinas, reconstruirán tejidos óseos. Entrarán y saldrán de las células, al detectar algún cambio o defecto, enviando un mensaje con un diagnóstico y una orden a los nano terapeutas: estos entran a la célula y la vuelven a su estado normal. Sin nanomedicina la NASA tendría muchas dificultades en sus expediciones espaciales. 
                     </p>
-                    <blockquote cite="http://where-i-got-my-info-from.com ">
-                        <p>
-                            Non ratione vel. Non consequatur hic et labore et quia doloribus. Dolorum rerum dignissimos inventore id corporis rerum. At nesciunt ut error est soluta qui quibusdam blanditiis animi. Ad saepe quia at numquam temporibus quisquam ipsa. Ab omnis aut ratione
-                            ipsam voluptates quia. Veniam temporibus et. Aperiam sint veniam libero perferendis a. Quisquam optio quidem et.
-                        </p>
-                        <cite>
-                            <a href="#0">John Doe</a>
-                        </cite>
-                    </blockquote>
-                    <p class="lead">
-                        Non ratione vel. Non consequatur hic et labore et quia doloribus. Dolorum rerum dignissimos inventore id corporis rerum. At nesciunt ut error est soluta qui quibusdam blanditiis animi. Ad saepe quia at numquam temporibus quisquam ipsa. Ab omnis aut ratione
-                        ipsam voluptates quia. Veniam temporibus et. Aperiam sint veniam libero perferendis a. Quisquam optio quidem et.
+                    <p class="lead ">
+                        Estos robots médicos, son los resultados de una posible cura para todas las patologías mortales.  Este importante hecho, será de gran impacto para sociedad   actual. 
                     </p>
+                    <p class="lead ">
+                        Una importante pregunta, es: ¿Cómo el nano médico será introducido al organismo humano? Por medio de una píldora o capsula que sería consumida de forma oral en el ser humano.
+                    </p>
+                    <p class="lead ">
+                        Este hecho tecnológico fue inspirado en una película de ficción llamada «Un viaje alucinante». Esta producción cinematográfica tiene como parte de su trama hacer un viaje en submarino dentro del organismo humano en búsqueda de un coágulo de sangre, para así eliminarlo y resguardar la salud del humano.
+                    </p>
+                    <h3 class="sources">Fuentes: OMPI y ScienceAlert</h3>
                 </div>
             </div>
         </div>

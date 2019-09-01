@@ -432,8 +432,7 @@
                     <div class="quote-curious-body">
                         <div class="quote-curious-text">
                             <p class="q">
-                                Ante porttitor phasellus ultricies libero inceptos vel vulputate cubilia faucibus, venenatis eget quis velit neque morbi nunc eleifend magna penatibus, dignissim a primis et luctus potenti volutpat sodales. Litora sociis iaculis bibendum velit, gravida
-                                morbi vel, et nec porta. Sodales pellentesque fames est ridiculus egestas justo iaculis imperdiet, sociis facilisi magna nascetur pulvinar aliquet turpis, hac per lobortis porta sagittis etiam montes.
+                                ¿Sabías qué, un padre español e ingeniero de software en Microsoft llamado Julián Isla, está desarrollando en la actualidad una inteligencia artificial, que puede agilizar el proceso de diagnóstico de enfermedades sumamente raras?
                             </p>
                         </div>
                     </div>
@@ -443,8 +442,7 @@
                     <div class="quote-curious-body">
                         <div class="quote-curious-text">
                             <p class="q">
-                                Ante porttitor phasellus ultricies libero inceptos vel vulputate cubilia faucibus, venenatis eget quis velit neque morbi nunc eleifend magna penatibus, dignissim a primis et luctus potenti volutpat sodales. Litora sociis iaculis bibendum velit, gravida
-                                morbi vel, et nec porta. Sodales pellentesque fames est ridiculus egestas justo iaculis imperdiet, sociis facilisi magna nascetur pulvinar aliquet turpis, hac per lobortis porta sagittis etiam montes.
+                                ¿Sabías qué? Los premios IG Nobel son el contrario de los premios Nobel, aunque desde una postura divertida. En Física destaca el premio dedicado a Andréy Gueim, quien hizo gravitar a una rana en un campo magnético. 10 años más tarde ganó uno de verdad por sus teorías sobre el grafeno.
                             </p>
                         </div>
                     </div>
@@ -454,8 +452,7 @@
                     <div class="quote-curious-body">
                         <div class="quote-curious-text">
                             <p class="q">
-                                Ante porttitor phasellus ultricies libero inceptos vel vulputate cubilia faucibus, venenatis eget quis velit neque morbi nunc eleifend magna penatibus, dignissim a primis et luctus potenti volutpat sodales. Litora sociis iaculis bibendum velit, gravida
-                                morbi vel, et nec porta. Sodales pellentesque fames est ridiculus egestas justo iaculis imperdiet, sociis facilisi magna nascetur pulvinar aliquet turpis, hac per lobortis porta sagittis etiam montes.
+                                ¿Sabías qué? WhatsApp implementará una nueva función semejante a la de la aplicación Instagram. Esta característica es llamada «Boomerang» y se podrán hacer vídeos cortos. Asimismo, ya se está probando en la aplicación móvil con la idea de implementarse pronto en todos los teléfonos. Por el momento, eso sí, la función sigue en estado de desarrollo para asegurar que no tenga ningún fallo, ni problema. De poder crearse Boomerang con el contenido capturado, este podría después subirse a los estados de WhatsApp o incluso, poder enviarse a cualquiera de los contactos de la lista de WhatsApp.
                             </p>
                         </div>
                     </div>
@@ -465,8 +462,7 @@
                     <div class="quote-curious-body">
                         <div class="quote-curious-text">
                             <p class="q">
-                                Ante porttitor phasellus ultricies libero inceptos vel vulputate cubilia faucibus, venenatis eget quis velit neque morbi nunc eleifend magna penatibus, dignissim a primis et luctus potenti volutpat sodales. Litora sociis iaculis bibendum velit, gravida
-                                morbi vel, et nec porta. Sodales pellentesque fames est ridiculus egestas justo iaculis imperdiet, sociis facilisi magna nascetur pulvinar aliquet turpis, hac per lobortis porta sagittis etiam montes.
+                                ¿Sabías qué? Los agujeros negros en realidad son invisibles. Dignos de todo el misticismo que los rodea, un agujero negro es una región deformada del espacio; una estrella muerta, que ha perdido toda característica de materia, excepto una fuerza gravitacional incomparable, la cual es una de las formas por las cuales se detectan estos colosos: si en una región vacía y oscura del espacio, multiples objetos giran a altas velocidades alrededor de este vacío, se trata entonces de un agujero negro. Ni siquiera la luz puede escapar de ellos. Tal es el caso de «Powehi», agujero negro de la galaxia elíptica M87, el cual, en la primera imagen captada a uno de estos vórtices intergalácticos, se puede apreciar la luz de una estrella siendo absorbida por este, lo que nos muerta el Horizonte de Eventos; es decir, el punto de no retorno, el abismo. 
                             </p>
                         </div>
                     </div>
@@ -476,8 +472,7 @@
                     <div class="quote-curious-body">
                         <div class="quote-curious-text">
                             <p class="q">
-                                Ante porttitor phasellus ultricies libero inceptos vel vulputate cubilia faucibus, venenatis eget quis velit neque morbi nunc eleifend magna penatibus, dignissim a primis et luctus potenti volutpat sodales. Litora sociis iaculis bibendum velit, gravida
-                                morbi vel, et nec porta. Sodales pellentesque fames est ridiculus egestas justo iaculis imperdiet, sociis facilisi magna nascetur pulvinar aliquet turpis, hac per lobortis porta sagittis etiam montes.
+                                ¿Sabías qué? Científicos lograron hacer una botella de vodka en la zona radiactiva de Chernóbil. El profesor Jim Smith mencionó: «Cualquier químico te diría que cuando destilas algo, las impurezas se quedan en el producto que se desecha, así que nosotros usamos granos de centeno ligeramente contaminados y agua del acuífero de Chernóbil... y los destilamos». Este producto fue analizado en el laboratorio radiactivo de la Universidad de Southampton, en el sur de Inglaterra y no pudieron encontrar nada ya que todo estaba bajo su límite de radiación.
                             </p>
                         </div>
                     </div>
@@ -531,15 +526,15 @@
                         <div class="col-md-12">
                             <div class="card card-default">
                                 <div class="card-header">
-                                    <h2>Título del artículo</h2>
+                                    <h2>La NASA descubre Kepler-90i, un sistema espacial muy parecido al sistema solar gracias a una Inteligencia Artificial</h2>
                                 </div>
                                 <div class="card-body card-5-7">
                                     <div class="card-left">
                                         <img src="https://picsum.photos/320/300" class="img-responsive img-article-secondary">
                                     </div>
                                     <div class="card-right">
-                                        <small>Nombre y Apellido</small>
-                                        <p>A stitch in time saves nine. All good things come to those who wait. Too many cooks spoil the broth.
+                                        <small>Jorgelis Chávez</small>
+                                        <p>La NASA descubre, una  estrella  de  secuencia principal que cuenta con el mayor sistema planetario observado desde la Vía Láctea. Parecido al sistema solar, este cuento con 8 planetas a su entorno espacial. 
                                         </p>
                                         <a href="./blog-single.html" class="btn btn-sm btn-default"><span class="glyphicon glyphicon-new-window"></span> Leer más</a>
                                     </div>
@@ -590,16 +585,16 @@
                         <div class="item text-center writer-name-article">
                             <a href="./blog-single.html">
                                 <img src="https://picsum.photos/160/140?grayscale" class="img-responsive img-article-optional" alt="">
-                                <h4>Título del artículo</h4>
+                                <h4>Sólo se usa el 10% del mundo digital</h4>
                             </a>
-                            <small>Nombre y Apellido</small>
+                            <small>Yaremí Mendoza</small>
                         </div>
                         <div class="item text-center writer-name-article">
                             <a href="./blog-single.html">
                                 <img src="https://picsum.photos/id/981/160/140?blur=2" class="img-responsive img-article-optional" alt="">
                                 <h4>Título del artículo</h4>
                             </a>
-                            <small>Nombre y Apellido</small>
+                            <small>Katherina Perez</small>
                         </div>
                     </div>
                 </div>
