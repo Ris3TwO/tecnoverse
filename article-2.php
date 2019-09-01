@@ -101,7 +101,7 @@
 
                 <div class="col-md-8 col-md-offset-2">
                     <p class="summary">
-                        La nasa descubre un nuevo sistema espacial muy parecido al sistema solar de la tierra. Este hallazgo fue posible con la ayuda de Google, y una IA de aprendizaje automatizado. 
+                        La nasa descubre un nuevo sistema espacial muy parecido al sistema solar de la tierra. Este hallazgo fue posible con la ayuda de Google, y una IA de aprendizaje automatizado.
                     </p>
                 </div>
                 <a href="#blog" class="scroll home-s-btn hor-center"><span class="dot center"></span></a>
@@ -134,10 +134,13 @@
                         </p>
                     </div>
                     <p class="lead drop-cap ">
-                        La NASA descubre, una  estrella  de  secuencia principal que cuenta con el mayor sistema planetario observado desde la Vía Láctea. Parecido al sistema solar, este cuento con 8 planetas a su entorno espacial. La misma fue nombrada, Kepler-90i. Este reciente hallazgo fue realizado con los aportes de Google, y el uso de una inteligencia artificial llamada «aprendizaje de máquina». El hecho científico fue anunciado el 14 de diciembre del 2017, por la National Aeronautics and Space Administration (NASA). 
+                        La NASA descubre, una estrella de secuencia principal que cuenta con el mayor sistema planetario observado desde la Vía Láctea. Parecido al sistema solar, este cuento con 8 planetas a su entorno espacial. La misma fue nombrada, Kepler-90i. Este reciente hallazgo fue realizado con los aportes de Google, y el uso de una inteligencia artificial llamada «aprendizaje de máquina». El hecho científico fue anunciado el 14 de diciembre del 2017, por la National Aeronautics and Space Administration (NASA).
                     </p>
                     <p class="lead ">
                         La inteligencia artificial usada para este hallazgo es denominada como «aprendizaje automático» o «de máquina», y su objetivo es desarrollar técnicas que permiten que la computadora aprenda.
+                    </p>
+                    <p class="lead ">
+                        El aprendizaje automático es un tipo de inteligencia artificial que proporciona a las computadoras la capacidad de aprender, sin ser programadas explícitamente. El aprendizaje automático se centra en el desarrollo de programas informáticos que puedan cambiar cuando se exponen a nuevos datos.
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-6 img-block">
@@ -152,15 +155,12 @@
                 </div>
                 <div class="col-xs-12 col-md-6 ">
                     <p class="lead ">
-                        El aprendizaje automático es un tipo de inteligencia artificial que proporciona a las computadoras la capacidad de aprender, sin ser programadas explícitamente. El aprendizaje automático se centra en el desarrollo de programas informáticos que puedan cambiar cuando se exponen a nuevos datos.
+                        El sistema solar de Kepler-90i fue designado como KOI-351. Kepler-90i también destaca por la configuración de su sistema planetario, que tiene similitudes con sistemas solares con planetas rocosos en el centro, y gaseosos en el exterior. Los seis planetas interiores son supertierras o pequeños Neptunos debido a su tamaño. Los dos planetas exteriores son gigantes gaseosos, y su distancia es de aproximadamente 2500 años luz de nuestro sol, y es un 30% más grande que la Tierra, y está tan cerca a su estrella madre que la temperatura promedio de la superficie excede los 426° Celsius, similar a Mercurio.
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-12 ">
                     <p class="lead ">
-                        El sistema solar de Kepler-90i fue designado como KOI-351. Kepler-90i también destaca por la configuración de su sistema planetario, que tiene similitudes con sistemas solares con planetas rocosos en el centro, y gaseosos en el exterior. Los seis planetas interiores son supertierras o pequeños Neptunos debido a su tamaño. Los dos planetas exteriores son gigantes gaseosos, y su distancia es de aproximadamente 2500 años luz de nuestro sol, y es un 30% más grande que la Tierra, y está tan cerca a su estrella madre que la temperatura promedio de la superficie excede los 426° Celsius, similar a Mercurio.
-                    </p>
-                    <p class="lead ">
-                    Durante las observaciones con el telescopio espacial, en el período 2008-2013 se proporcionó evidencia de la existencia de exoplanetas usando el método de tránsito, método que muestra el tamaño de un planeta, pero no su masa. Los planetas se nombran en función de su distancia a la estrella. Kepler-90b es el más cercano al interior, siendo Kepler-90h el más exterior de los ocho planetas conocidos.
+                        Durante las observaciones con el telescopio espacial, en el período 2008-2013 se proporcionó evidencia de la existencia de exoplanetas usando el método de tránsito, método que muestra el tamaño de un planeta, pero no su masa. Los planetas se nombran en función de su distancia a la estrella. Kepler-90b es el más cercano al interior, siendo Kepler-90h el más exterior de los ocho planetas conocidos.
                     </p>
                     <p class="lead ">
                         A lo largo del proceso de investigación, distintos expertos dieron su aporte, tal es el caso del director de la División de Astrofísica de la NASA, Paul Hertn, quien expresó su satisfacción con los resultados del desarrollo de la investigación, el cual acotó lo siguiente: «Justo como lo esperábamos, hay emocionantes descubrimientos que se encuentra archivados en los datos Kepler… Convierte a Kepler-90i en la estrella que alberga tantos planetas como el nuestro», así lo indicó el ingeniero de software de Google, Christopher Shallve.
