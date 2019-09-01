@@ -643,7 +643,7 @@
 
             <div class="row">
                 <div class="col-xs-12 col-md-10 col-md-offset-1">
-                    <form id="contact-form" method="post" action="">
+                    <form >
                         <div class="col-sm-6">
                             <input type="text" name="name" id="name" class="input-field" required="required" placeholder="Nombre">
                             <span class="name-error text-center mb-30"></span>
