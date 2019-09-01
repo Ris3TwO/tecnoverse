@@ -1650,6 +1650,14 @@ Blog
     background-image: url(../img/articles/blog-header5.jpg);
 }
 
+.blog-page-6 {
+    background-image: url(../img/articles/blog-header6.jpg);
+}
+
+.blog-page-7 {
+    background-image: url(../img/articles/blog-header7.jpg);
+}
+
 .drop-cap:first-letter {
     float: left;
     font-family: "Lora", serif;

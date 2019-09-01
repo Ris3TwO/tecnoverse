@@ -132,12 +132,7 @@
                     <p class="lead ">
                         La Amazonia, el hogar de millones de plantas y de animales, una vez mas es afectado por las fuertes precipitaciones del cambio climático que se presenta todos los años, este lugar es llamado «el pulmón del planeta» por el gran oxigeno que se produce para la tierra y regula el calentamiento global ya que sus bosques absorben todos los años emisiones de carbono. Así mismo, se ha descubierto que en el presente año han habido 4.000 incendios, a diferencia del año pasado donde fueron 1.110.
                     </p>
-                </div>
-                <div class="col-xs-12 col-md-6 ">
-                    <p class="lead ">
-                        Olivier Marino de la ESA (Agencia Espacial Europea) explicó, que a través de las imágenes obtenidas en agosto del 2018, a comparación de las que fueron tomadas el presente año del mismo mes, se pudo determinar el gran número de incendios que se detectan en la Amazonia. Esto fue posible gracias al algoritmo de horario nocturno del atlas mundial de incendios, el cual evita cualquier posible falsa alarma.
-                    </p>
-                </div>
+                </div>                
                 <div class="col-xs-12 col-md-6 img-block">
                     <div id="img-block">
                         <a href="../../img/articles/4/article-secondary.jpg">
@@ -146,6 +141,11 @@
                     </div>
                     <p class="img-text">
                         <small>Cortesía de El Mundo</small>
+                    </p>
+                </div>
+                <div class="col-xs-12 col-md-6 ">
+                    <p class="lead ">
+                        Olivier Marino de la ESA (Agencia Espacial Europea) explicó, que a través de las imágenes obtenidas en agosto del 2018, a comparación de las que fueron tomadas el presente año del mismo mes, se pudo determinar el gran número de incendios que se detectan en la Amazonia. Esto fue posible gracias al algoritmo de horario nocturno del atlas mundial de incendios, el cual evita cualquier posible falsa alarma.
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-12 ">

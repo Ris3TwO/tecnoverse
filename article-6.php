@@ -8,7 +8,7 @@
     <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
 
     <!-- SITE TITLE -->
-    <title>Tecnología curativa, «microbots médicos» | Tecnoverse</title>
+    <title>Sólo se usa el 10% del mundo digital | Tecnoverse</title>
     <meta name="description" content="Tecnoverse magazine">
 
     <!-- Bootstrap CSS -->
@@ -93,17 +93,10 @@
     <!-- END MAIN NAVIGATION BAR -->
 
     <!-- HEADER -->
-    <section class="blog-page-1 blog-page parallax one-page-section">
+    <section class="blog-page-6 blog-page parallax one-page-section">
         <div class="page-table">
             <div class="table-cell text-center">
-                <h3>¿Los médicos del futuro, serán robots?</h3>
-                <h1>Tecnología curativa, «microbots médicos»</h1>
-
-                <div class="col-md-8 col-md-offset-2">
-                    <p class="summary">
-                        La nanotecnología, que tiene el poder de diagnosticar enfermedades antes de que las personas las padezca
-                    </p>
-                </div>
+                <h1>Sólo se usa el 10% del mundo digital</h1>
                 <a href="#blog" class="scroll home-s-btn hor-center"><span class="dot center"></span></a>
             </div>
         </div>
@@ -117,42 +110,39 @@
                 <div class="col-xs-12 col-md-12">
                     <div class="col-md-12 col-md-offset-1">
                         <h4 class="writer-name">
-                            Jorgelis Chávez
+                            Yaremí Mendoza
                             <span class="time-publish">
-                                31 AGO 2019 - 17:10 CEST
+                                30 AGO 2019 - 12:03 CEST
                             </span>
                         </h4>
                     </div>
                     <div class="text-center" style="padding-bottom: 2em;">
                         <div id="gallery">
-                            <a href="../../img/articles/1/article-primary.jpg">
-                                <img class="img-responsive-2 img-primary" src="../../img/articles/1/article-primary-thumbnail.jpg" alt=" ">
+                            <a href="../../img/articles/6/article-primary.jpg">
+                                <img class="img-responsive-2 img-primary" src="../../img/articles/6/article-primary-thumbnail.jpg" alt=" ">
                             </a>
                         </div>
                         <p class="img-text">
-                            <small>Cortesía de Noticias Sin</small>
+                            <small>Cortesía de </small>
                         </p>
                     </div>
                     <p class="lead drop-cap ">
-                        La NASA desarrolló una nueva tecnología para diagnosticar enfermedades, como el cáncer, antes de que las persona la padezcan. Esta nueva modalidad es diseñada empleando, robots miniatura (nanotecnología). Este emprendimiento científico es impulsado por la directora científica de la NASA, Kathie Olsen, junto a un equipo de especialistas.
-                    </p>
-                    <p class="lead ">
-                        Durante mucho tiempo el objetivo de la NASA era enviar al primer hombre a la luna y traerlo sano, sin embargo, el espacio es mortal para el ser humano, y el mismo no podría estar tanto tiempo en el espacio debido a que la gravedad es uno de los factores que el organismo óseo no soporta. Esto gracias a que el astronauta pierde un poco la movilidad y estabilidad de su sistema óseo. También una de las causas de las enfermedades, son las fuertes radiaciones del sol ya que están más expuesto a él.
+                        El 97% de las personas aproximadamente sólo usa el mundo digital para realizar sus búsquedas en Google o en otras páginas tales como YouTube, Yahoo, Wikipedia o simplemente para revisar sus redes sociales, lo que muchos no saben es que el internet es muy amplio y va más allá de lo que usualmente utilizamos. La «Deep Web» o «Red Profunda» es la parte del ciberespacio que algunos saben que existe, pero pocos han navegado en ella.
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-6 ">
                     <p class="lead ">
-                        Es por ende que se ha venido estudiando el desarrollo de sistemas robóticos miniatura que eviten las enfermedades antes de que ataquen el sistema inmunológico humano, para así poderla eliminar, o descubrir qué la está causando. Esto podría ser posible con los microbots, unas pequeñas maquinas creadas por átomos, que cumplen la función de los glóbulos blancos, los cuales detectan organismos malignos, como un parasito, por ejemplo, para así eliminarlos.
+                        Actualmente esta red tiene el 90% de todo el internet, a pesar de que se piensa que se conoce todo o la mayoría de lo que hay en la web, en la realidad no es así; este espacio virtual está en un crecimiento constante. Según Trend Micro, apuntan que es «increíblemente difícil» ofrecer una lectura sobre el volumen de los sitios en un momento dado, aunque estiman que el contenido actual ronda las 576.000 páginas web.
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-6 img-block">
                     <div id="img-block">
-                        <a href="../../img/articles/1/article-secondary-1.jpg">
-                            <img class="img-responsive img-secondary" src="../../img/articles/1/article-secondary-1.jpg" alt=" ">
+                        <a href="../../img/articles/6/article-secondary.jpg">
+                            <img class="img-responsive img-secondary" src="../../img/articles/6/article-secondary-thumbnail.jpg" alt=" ">
                         </a>
                     </div>
                     <p class="img-text">
-                        <small>Cortesía de Nanotecnología Medica</small>
+                        <small>Cortesía de </small>
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-12 ">
@@ -168,7 +158,7 @@
                     <p class="lead ">
                         Este hecho tecnológico fue inspirado en una película de ficción llamada «Un viaje alucinante». Esta producción cinematográfica tiene como parte de su trama hacer un viaje en submarino dentro del organismo humano en búsqueda de un coágulo de sangre, para así eliminarlo y resguardar la salud del humano.
                     </p>
-                    <h3 class="sources">Fuentes: OMPI y ScienceAlert</h3>
+                    <h3 class="sources">Fuentes: </h3>
                 </div>
             </div>
         </div>

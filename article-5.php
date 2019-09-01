@@ -156,8 +156,25 @@
                 </div>
                 <div class="col-xs-12 col-md-12 ">
                     <p class="lead ">
-                        Luego de que la enorme red de telescopios enfocara a este monstruo cosmico por 4 días seguidos, se avecinaba otra ardua tarea.Una vez terminada la odisea en captar esta primera y extraordinaria imagen de un agujero negro supermasivo, era hora de procesarla. La cantidad de información que representó esta imagen, se estima que fue de aproximadamente 5000 terabytes, imposible de enviar por fibra óptica, por lo que tuvieron que almacernarla en seis metros cúbicos de discos duros y ser enviadas por avion en pleno invierno polar lo cual retraso en meses su llegada. Katie Bouman, miembro de los 200 integrantes que conformaron el proyecto, fue una pieza clave para poder revelar la imagen. Al ser tanta la información almacenada, esta joven científica de 30 años, configuró un algoritmo especial para poder hacer el trabajo pesado, un poco más fácil. Este proceso duró 2 semanas. 
+                        Luego de que la enorme red de telescopios enfocara a este monstruo cosmico por 4 días seguidos, se avecinaba otra ardua tarea. Una vez terminada la odisea en captar esta primera y extraordinaria imagen de un agujero negro
                     </p>
+                </div>
+                <div class="col-xs-12 col-md-6 img-block">
+                    <div id="img-block">
+                        <a href="../../img/articles/5/article-secondary.jpg">
+                            <img class="img-responsive img-secondary" src="../../img/articles/5/article-secondary.jpg" alt=" ">
+                        </a>
+                    </div>
+                    <p class="img-text">
+                        <small>Cortesía de </small>
+                    </p>
+                </div>
+                <div class="col-xs-12 col-md-6 ">
+                    <p class="lead">
+                        supermasivo, era hora de procesarla. La cantidad de información que representó esta imagen, se estima que fue de aproximadamente 5000 terabytes, imposible de enviar por fibra óptica, por lo que tuvieron que almacernarla en seis metros cúbicos de discos duros y ser enviadas por avion en pleno invierno polar lo cual retraso en meses su llegada. Katie Bouman, miembro de los 200 integrantes que conformaron el proyecto, fue una pieza clave para poder revelar la imagen. Al ser tanta la información almacenada, esta joven científica de 30 años, configuró un algoritmo especial para poder hacer el trabajo pesado, un poco más fácil. Este proceso duró 2 semanas.
+                    </p>
+                </div>
+                <div class="col-xs-12 col-md-12">
                     <p class="lead ">
                         El resultado final, fue la imagen que le dio la vuelta al mundo el 10 de abril del presente año, siendo considerada por muchos, como la fotografía del año.
                     </p>
