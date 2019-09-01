@@ -129,13 +129,11 @@
                     <p class="lead drop-cap ">
                         El 97% de las personas aproximadamente sólo usa el mundo digital para realizar sus búsquedas en Google o en otras páginas tales como YouTube, Yahoo, Wikipedia o simplemente para revisar sus redes sociales, lo que muchos no saben es que el internet es muy amplio y va más allá de lo que usualmente utilizamos. La «Deep Web» o «Red Profunda» es la parte del ciberespacio que algunos saben que existe, pero pocos han navegado en ella.
                     </p>
-                </div>
-                <div class="col-xs-12 col-md-6 ">
                     <p class="lead ">
                         Actualmente esta red tiene el 90% de todo el internet, a pesar de que se piensa que se conoce todo o la mayoría de lo que hay en la web, en la realidad no es así; este espacio virtual está en un crecimiento constante. Según Trend Micro, apuntan que es «increíblemente difícil» ofrecer una lectura sobre el volumen de los sitios en un momento dado, aunque estiman que el contenido actual ronda las 576.000 páginas web.
                     </p>
                 </div>
-                <div class="col-xs-12 col-md-6 img-block">
+                <div class="col-xs-12 col-md-12 img-block">
                     <div id="img-block">
                         <a href="../../img/articles/6/article-secondary.jpg">
                             <img class="img-responsive img-secondary" src="../../img/articles/6/article-secondary-thumbnail.jpg" alt=" ">
