@@ -1687,6 +1687,11 @@ Blog
     height: auto;
 }
 
+.sources {
+    font-size: 12px;
+    font-style: italic;
+}
+
 
 /*----------------------------------------
 Contact

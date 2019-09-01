@@ -168,7 +168,7 @@
                     <p class="lead ">
                         Este hecho tecnológico fue inspirado en una película de ficción llamada «Un viaje alucinante». Esta producción cinematográfica tiene como parte de su trama hacer un viaje en submarino dentro del organismo humano en búsqueda de un coágulo de sangre, para así eliminarlo y resguardar la salud del humano.
                     </p>
-                    <h3 class="summary">Fuentes: OMPI y ScienceAlert</h3>
+                    <h3 class="sources">Fuentes: OMPI y ScienceAlert</h3>
                 </div>
             </div>
         </div>
