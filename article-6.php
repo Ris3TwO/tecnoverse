@@ -133,7 +133,7 @@
                         Actualmente esta red tiene el 90% de todo el internet, a pesar de que se piensa que se conoce todo o la mayoría de lo que hay en la web, en la realidad no es así; este espacio virtual está en un crecimiento constante. Según Trend Micro, apuntan que es «increíblemente difícil» ofrecer una lectura sobre el volumen de los sitios en un momento dado, aunque estiman que el contenido actual ronda las 576.000 páginas web.
                     </p>
                 </div>
-                <div class="col-xs-12 col-md-12 img-block">
+                <div class="col-xs-12 col-md-6 img-block">
                     <div id="img-block">
                         <a href="../../img/articles/6/article-secondary.jpg">
                             <img class="img-responsive img-secondary" src="../../img/articles/6/article-secondary-thumbnail.jpg" alt=" ">
@@ -143,12 +143,15 @@
                         <small>Cortesía de </small>
                     </p>
                 </div>
-                <div class="col-xs-12 col-md-12 ">
+                <div class="col-xs-12 col-md-6">
                     <p class="lead ">
-                        Las nanomáquinas, reconstruirán tejidos óseos. Entrarán y saldrán de las células, al detectar algún cambio o defecto, enviando un mensaje con un diagnóstico y una orden a los nano terapeutas: estos entran a la célula y la vuelven a su estado normal. Sin nanomedicina la NASA tendría muchas dificultades en sus expediciones espaciales. 
+                        Las nanomáquinas, reconstruirán tejidos óseos. Entrarán y saldrán de las células, al detectar algún cambio o defecto, enviando un mensaje con un diagnóstico y una orden a los nano terapeutas: estos entran a la célula y la vuelven a su estado normal. Sin nanomedicina la NASA tendría muchas dificultades en sus expediciones espaciales.
                     </p>
+                </div>
+                <div class="col-xs-12 col-md-12 ">
+
                     <p class="lead ">
-                        Estos robots médicos, son los resultados de una posible cura para todas las patologías mortales.  Este importante hecho, será de gran impacto para sociedad   actual. 
+                        Estos robots médicos, son los resultados de una posible cura para todas las patologías mortales. Este importante hecho, será de gran impacto para sociedad actual.
                     </p>
                     <p class="lead ">
                         Una importante pregunta, es: ¿Cómo el nano médico será introducido al organismo humano? Por medio de una píldora o capsula que sería consumida de forma oral en el ser humano.
