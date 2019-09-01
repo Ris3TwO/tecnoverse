@@ -125,7 +125,7 @@
                     </div>
                     <div class="text-center" style="padding-bottom: 2em;">
                         <div id="gallery">
-                            <a href="../../img/1/article-primary.jpg">
+                            <a href="../../img/articles/1/article-primary.jpg">
                                 <img class="img-responsive-2 img-primary" src="../../img/1/article-primary.jpg" alt=" ">
                             </a>
                         </div>
