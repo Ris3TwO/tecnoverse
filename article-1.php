@@ -126,7 +126,7 @@
                     <div class="text-center" style="padding-bottom: 2em;">
                         <div id="gallery">
                             <a href="../../img/articles/1/article-primary.jpg">
-                                <img class="img-responsive-2 img-primary" src="../../img/articles/1/article-primary.jpg" alt=" ">
+                                <img class="img-responsive-2 img-primary" src="../../img/articles/1/article-primary-thumbnail.jpg" alt=" ">
                             </a>
                         </div>
                         <p class="img-text">
@@ -152,30 +152,23 @@
                         </a>
                     </div>
                     <p class="img-text">
-                        <small>Mensaje debajo de la imagen</small>
+                        <small>Cortesía de Nanotecnología Medica</small>
                     </p>
                 </div>
                 <div class="col-xs-12 col-md-12 ">
-                    <h2>
-                        <strong>Título adicional de subzona</strong>
-                    </h2>
                     <p class="lead ">
-                        Non ratione vel. Non consequatur hic et labore et quia doloribus. Dolorum rerum dignissimos inventore id corporis rerum. At nesciunt ut error est soluta qui quibusdam blanditiis animi. Ad saepe quia at numquam temporibus quisquam ipsa. Ab omnis aut ratione
-                        ipsam voluptates quia. Veniam temporibus et. Aperiam sint veniam libero perferendis a. Quisquam optio quidem et.
+                        Las nanomáquinas, reconstruirán tejidos óseos. Entrarán y saldrán de las células, al detectar algún cambio o defecto, enviando un mensaje con un diagnóstico y una orden a los nano terapeutas: estos entran a la célula y la vuelven a su estado normal. Sin nanomedicina la NASA tendría muchas dificultades en sus expediciones espaciales. 
                     </p>
-                    <blockquote cite="http://where-i-got-my-info-from.com ">
-                        <p>
-                            Non ratione vel. Non consequatur hic et labore et quia doloribus. Dolorum rerum dignissimos inventore id corporis rerum. At nesciunt ut error est soluta qui quibusdam blanditiis animi. Ad saepe quia at numquam temporibus quisquam ipsa. Ab omnis aut ratione
-                            ipsam voluptates quia. Veniam temporibus et. Aperiam sint veniam libero perferendis a. Quisquam optio quidem et.
-                        </p>
-                        <cite>
-                            <a href="#0">John Doe</a>
-                        </cite>
-                    </blockquote>
-                    <p class="lead">
-                        Non ratione vel. Non consequatur hic et labore et quia doloribus. Dolorum rerum dignissimos inventore id corporis rerum. At nesciunt ut error est soluta qui quibusdam blanditiis animi. Ad saepe quia at numquam temporibus quisquam ipsa. Ab omnis aut ratione
-                        ipsam voluptates quia. Veniam temporibus et. Aperiam sint veniam libero perferendis a. Quisquam optio quidem et.
+                    <p class="lead ">
+                        Estos robots médicos, son los resultados de una posible cura para todas las patologías mortales.  Este importante hecho, será de gran impacto para sociedad   actual. 
                     </p>
+                    <p class="lead ">
+                        Una importante pregunta, es: ¿Cómo el nano médico será introducido al organismo humano? Por medio de una píldora o capsula que sería consumida de forma oral en el ser humano.
+                    </p>
+                    <p class="lead ">
+                        Este hecho tecnológico fue inspirado en una película de ficción llamada «Un viaje alucinante». Esta producción cinematográfica tiene como parte de su trama hacer un viaje en submarino dentro del organismo humano en búsqueda de un coágulo de sangre, para así eliminarlo y resguardar la salud del humano.
+                    </p>
+                    <h3 class="summary">Fuentes: OMPI y ScienceAlert</h3>
                 </div>
             </div>
         </div>
