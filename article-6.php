@@ -135,7 +135,7 @@
                 </div>
                 <div class="col-xs-12 col-md-6 img-block">
                     <div id="img-block">
-                        <a href="../../img/articles/6/article-secondary2.jpg">
+                        <a href="../../img/articles/6/article-secondary2.png">
                             <img class="img-responsive img-secondary" src="../../img/articles/6/article-secondary2-thumbnail.jpg" alt=" ">
                         </a>
                     </div>
