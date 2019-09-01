@@ -131,8 +131,8 @@
                         En medio de tantas complejidades que embargan al ser
                         humano es inevitable no tener momentos que le resten a eso
                         que llamamos vida. Desde el principio de la existencia el ser
-                        ha estado en la búsqueda de algo “felicidad” esa liberación de
-                        endorfina, serotonina, dopamina y oxitocina. Sensación de
+                        ha estado en la búsqueda de algo denominado “felicidad”, que es la liberación de
+                        endorfina, serotonina, dopamina y oxitocina en el cuerpo. Sensación de
                         bienestar, gozo y satisfacción. Pero ¿cómo hacer cuándo no se
                         puede controlar lo que sucede y por ende muchas veces
                         tiende a perderse esa preciada felicidad?
@@ -149,8 +149,8 @@
                     </h2>
                     <p class="lead ">
                         Son muchísimos los beneficios que se obtienen con el optimismo, pero resulta que es
-                        más fácil comprase un jet a sacar todo el contenido dañino de la mente. pues según sydney pinoy-
-                        peyronnet, experto en ‘neurofeedback’ nuestro cerebro procesa unos 60.000 pensamientos al día,
+                        más fácil comprase un jet a sacar todo el contenido dañino de la mente. Pues según Sydney 
+                        Pinoy-Peyronnet, experto en “neurofeedback” nuestro cerebro procesa unos 60.000 pensamientos al día,
                         muchos de ellos son absurdos o repetitivos, más del 90 por ciento se repiten y alrededor del 80
                         por ciento son negativos.
                     </p>
@@ -167,9 +167,9 @@
                 </div>
                 <div class="col-xs-12 col-md-12 ">
                     <p class="lead ">
-                        Según el portal web: exitoysuperacionpersonal.com como individuos somos expertos en
+                        Según el portal web Éxito y Superación Personal «como individuos somos expertos en
                         generalizar, minimizar las cosas positivas, dramatizar, tener expectativas poco realistas,
-                        autoculparnos, y hasta en adivinar el futuro con un cotidiano “no va a funcionar”
+                        autoculparnos, y hasta en adivinar el futuro con un cotidiano “no va a funcionar”».
                     </p>
                     <p class="lead ">
                         Los pensamientos y sus implicaciones con la felicidad o tristeza lo son todo, el ser está
@@ -204,7 +204,7 @@
                         menos 30 minutos al día, sonreír más, meditar, descansar, crear y repetir afirmaciones positivas y
                         la más importante de todas éstas: disfrutar cada momento, dando un valor especial a cada día.
                     </p>
-                    <h3 class="sources">Fuentes: Psicorumbo, ResearchGate y La Vanguardia</h3>
+                    <h3 class="sources">Fuentes: Psicorumbo, Manifiestalo.com, Exito y Superación Persona, ResearchGate y La Vanguardia</h3>
                 </div>
             </div>
         </div>
