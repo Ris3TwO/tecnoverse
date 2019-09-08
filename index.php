@@ -633,7 +633,7 @@
                             </div>
                             <div class="c-text">
                                 <h5>CORREO</h5>
-                                <h6>info@tecnoverse.tk</h6>
+                                <h6>information@tecnoverse.tk</h6>
                             </div>
                         </div>
                     </div>
