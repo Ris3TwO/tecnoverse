@@ -7,7 +7,7 @@ Options +FollowSymLinks
 # Set the default handler.
 DirectoryIndex index.php index.html index.htm
 
-
+RewriteEngine on 
 
 RewriteRule ^home(|/)$ ./index.php
 RewriteRule ^articles/tecnologia-curativa-microbots-medicos(|/)$ ./article-1.php
